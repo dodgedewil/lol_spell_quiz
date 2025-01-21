@@ -1,0 +1,166 @@
+{
+    "characters": [
+      {
+        "name": "Aatrox",
+        "abilities": [
+          { "name": "Deathbringer Stance", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_Deathbringer_Stance.png" },
+          { "name": "Darkin Blade", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_The_Darkin_Blade.png" },
+          { "name": "Darkin Blade", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_The_Darkin_Blade_2.png" },
+          { "name": "Darkin Blade", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_The_Darkin_Blade_3.png" },
+          { "name": "Infernal Chains", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_Infernal_Chains.png" },
+          { "name": "Umbral Dash", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_Umbral_Dash.png" },
+          { "name": "World Ender", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_World_Ender.png" }
+        ]
+      },
+      {
+        "name": "Ahri",
+        "abilities": [
+          { "name": "Essence Theft", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ahri_Essence_Theft.png" },
+          { "name": "Orb of Deception", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ahri_Orb_of_Deception.png" },
+          { "name": "Fox-Fire", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ahri_Fox-Fire.png" },
+          { "name": "Charm", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ahri_Charm.png" },
+          { "name": "Spirit Rush", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ahri_Spirit_Rush.png?21045" }
+        ]
+      },
+      {
+        "name": "Akali",
+        "abilities": [
+            { "name": "Assassin's Mark", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Akali_Assassin%27s_Mark.png" },
+            { "name": "Five Point Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Akali_Five_Point_Strike.png" },
+            { "name": "Twilight Shroud", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Akali_Twilight_Shroud.png" },
+            { "name": "Shuriken Flip", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Akali_Shuriken_Flip.png" },
+            { "name": "Shuriken Flip", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Akali_Shuriken_Flip_2.png" },
+            { "name": "Perfect Execution", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Akali_Perfect_Execution.png" },
+            { "name": "Perfect Execution", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Akali_Perfect_Execution_2.png" }
+        ]
+      },
+      {
+        "name": "Akshan",
+        "abilities": [
+          { "name": "Dirty Fighting", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Akshan_Dirty_Fighting.png" },
+          { "name": "Avengerang", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Akshan_Avengerang.png" },
+          { "name": "Going Rogue", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/thumb/Going_Rogue_2.png/64px-Going_Rogue_2.png" },
+          { "name": "Going Rogue", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Akshan_Going_Rogue.png" },
+          { "name": "Heroic Swing", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Akshan_Heroic_Swing.png" },
+          { "name": "Heroic Swing", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Akshan_Heroic_Swing_2.png" },
+          { "name": "Comeuppance", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Akshan_Comeuppance.png" }
+        ]
+      },
+      {
+        "name": "Alistar",
+        "abilities": [
+          { "name": "Triumphant Roar", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Alistar_Triumphant_Roar.png" },
+          { "name": "Pulverize", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Alistar_Pulverize.png" },
+          { "name": "Headbutt", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Alistar_Headbutt.png" },
+          { "name": "Trample", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Alistar_Trample.png" },
+          { "name": "Unbreakable Will", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Alistar_Unbreakable_Will.png" }
+        ]
+      },
+      {
+        "name": "Ambessa",
+        "abilities": [
+          { "name": "Drakehound's Step", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ambessa_Drakehound%27s_Step.png" },
+          { "name": "Cunning Sweep", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ambessa_Cunning_Sweep.png" },
+          { "name": "Sundering Slam", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ambessa_Sundering_Slam.png" },
+          { "name": "Repudiation", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ambessa_Repudiation.png" },
+          { "name": "Lacerate", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ambessa_Lacerate.png" },
+          { "name": "Public Execution", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ambessa_Public_Execution.png" }
+        ]
+      },
+      {
+        "name": "Amumu",
+        "abilities": [
+          { "name": "Cursed Touch", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Amumu_Cursed_Touch.png" },
+          { "name": "Bandage Toss", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Amumu_Bandage_Toss.png" },
+          { "name": "Despair", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Amumu_Despair.png" },
+          { "name": "Tantrum", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Amumu_Tantrum.png" },
+          { "name": "Curse of the Sad Mummy", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Amumu_Curse_of_the_Sad_Mummy.png" }
+        ]
+      },
+      {
+        "name": "Anivia",
+        "abilities": [
+          { "name": "Rebirth", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Anivia_Rebirth.png" },
+          { "name": "Flash Frost", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Anivia_Flash_Frost.png" },
+          { "name": "Crystallize", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Anivia_Crystallize.png" },
+          { "name": "Frostbite", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Anivia_Frostbite.png" },
+          { "name": "Glacial Storm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Anivia_Glacial_Storm.png" }
+        ]
+      },
+      {
+        "name": "Annie",
+        "abilities": [
+          { "name": "Pyromania", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Annie_Pyromania.png" },
+          { "name": "Disintegrate", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Annie_Disintegrate.png" },
+          { "name": "Incinerate", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Annie_Incinerate.png" },
+          { "name": "Molten Shield", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Annie_Molten_Shield.png" },
+          { "name": "Summon: Tibbers", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Annie_Summon-_Tibbers.png" },
+          { "name": "Summon: Tibbers", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Annie_Command-_Tibbers.png" }
+        ]
+      },
+      {
+        "name": "Aphelios",
+        "abilities": [
+          { "name": "The Hitman and the Seer", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_The_Hitman_and_the_Seer.png" },
+  
+          { "name": "Moonlight Vigil", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_Moonlight_Vigil.png" }
+        ]
+      },
+      {
+        "name": "Ashe",
+        "abilities": [
+          { "name": "Frost Shot", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ashe_Frost_Shot.png" },
+          { "name": "Ranger's Focus", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ashe_Ranger%27s_Focus.png" },
+          { "name": "Ranger's Focus", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ashe_Ranger%27s_Focus_2.png" },
+          { "name": "Volley", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ashe_Volley.png" },
+          { "name": "Hawkshot", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ashe_Hawkshot.png" },
+          { "name": "Enchanted Crystal Arrow", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ashe_Enchanted_Crystal_Arrow.png" }
+        ]
+      },
+      {
+        "name": "Aurelion Sol",
+        "abilities": [
+          { "name": "Cosmic Creator", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Cosmic_Creator.png" },
+          { "name": "Breath of Light", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Breath_of_Light.png" },
+          { "name": "Astral Flight", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Astral_Flight.png" },
+          { "name": "Astral Flight", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Astral_Flight_2.png" },
+          { "name": "Singularity", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Singularity.png" },
+          { "name": "Falling Star / The Skies Descend", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Falling_Star.png" },
+          { "name": "Falling Star / The Skies Descend", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_The_Skies_Descend.png" }
+        ]
+      },
+      {
+        "name": "Aurora",
+        "abilities": [
+          { "name": "Spirit Abjuration", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurora_Spirit_Abjuration.png" },
+          { "name": "Twofold Hex", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurora_Twofold_Hex.png" },
+          { "name": "Twofold Hex", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurora_Twofold_Hex_2.png" },
+          { "name": "Across the Veil", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurora_Across_the_Veil.png" },
+          { "name": "The Weirding", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurora_The_Weirding.png" },
+          { "name": "Between Worlds", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurora_Between_Worlds.png" }
+        ]
+      },
+      {
+        "name": "Azir",
+        "abilities": [
+          { "name": "Shurima's Legacy", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Azir_Shurima%27s_Legacy.png" },
+          { "name": "Conquering Sands", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Azir_Conquering_Sands.png" },
+          { "name": "Arise!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Azir_Arise%21.png" },
+          { "name": "Shifting Sands", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Azir_Shifting_Sands.png" },
+          { "name": "Emperor's Divide", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Azir_Emperor%27s_Divide.png" }
+        ]
+      },
+      {
+        "name": "Bard",
+        "abilities": [
+          { "name": "Traveler's Call", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Traveler%27s_Call.png" },
+          { "name": "Traveler's Call", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Traveler%27s_Call_2.png" },
+          { "name": "Cosmic Binding", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Cosmic_Binding.png" },
+          { "name": "Caretaker's Shrine", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Caretaker%27s_Shrine.png" },
+          { "name": "Magical Journey", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Magical_Journey.png" },
+          { "name": "Tempered Fate", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Tempered_Fate.png" }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Гра з вміннями персонажів</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Гра з вміннями персонажів</h1>
+    <button id="start-btn">Грати</button>
+    <!-- Гра -->
+    <div id="game" class="hidden">
+      <div class="timer" id="timer">10:00</div>
+      <img id="ability-image" class="ability-image" src="" alt="Зображення вміння">
+      <div>
+        <label for="character-input">Ім'я персонажа:</label>
+        <div class="input-container">
+          <input list="characters-list" id="character-input" placeholder="Введіть ім'я персонажа">
+          <button id="clear-input-btn" class="clear-btn" type="button">×</button>
+          <datalist id="characters-list"></datalist>
+        </div>
+      </div>      
+      <div class="ability-buttons">
+        <button class="ability-btn" data-ability="Passive">Passive</button>
+        <button class="ability-btn" data-ability="Q">Q</button>
+        <button class="ability-btn" data-ability="W">W</button>
+        <button class="ability-btn" data-ability="E">E</button>
+        <button class="ability-btn" data-ability="R">R</button>
+      </div>
+      <button id="confirm-answer-btn" disabled>Підтвердити</button>
+    </div>
+    <!-- Статистика -->
+    <div id="stats">
+      <p>Поточна череда: <span id="current-streak">0</span></p>
+      <p>Минула череда: <span id="past-streak">0</span></p>
+      <p>Найдовша череда: <span id="best-streak">0</span></p>
+      <div id="history-section">
+        <div id="progress-container">
+            <label for="accuracy-progress">Точність відповідей:</label>
+            <progress id="accuracy-progress" value="0" max="100"></progress>
+            <span id="accuracy-percentage">0%</span>
+        </div>
+        <ul id="history-list"></ul>
+      </div>
+      <table id="history-table">
+        <h3>Історія відповідей</h3>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Відповідь</th>
+            <th>Час (сек)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <button id="clear-history-btn">Очистити історію</button>
+    </div>
+    <!-- Game Over -->
+    <div id="game-over" class="hidden">
+      <p id="correct-answer"></p>
+      <button id="restart-btn">Почати знову</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

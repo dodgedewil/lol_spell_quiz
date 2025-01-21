@@ -1,0 +1,208 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Зображення вміння */
+
+.ability-image {
+  width: 64px; /* Обмеження ширини зображення */
+  height: 64px; /* Обмеження висоти зображення */
+  object-fit: cover;
+  margin: 20px 0;
+}
+
+/* */ 
+
+.input-container {
+  position: relative; /* Для контролю дочірніх елементів */
+  display: inline-flex;
+  align-items: center;
+  max-height: 21px; /* Фіксована максимальна висота */
+}
+
+
+#character-input {
+  padding-right: 5px; /* Простір для кнопок очищення */
+}
+
+/* Кнопка очищення */
+
+.clear-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: none;
+  font-size: 16px;
+  cursor: pointer;
+  color: #aaa;
+}
+
+.clear-btn {
+  right: 25px; /* Зсув для кнопки очищення */
+  display: none; /* Кнопка прихована за замовчуванням */
+}
+
+.clear-btn:hover {
+  color: #000;
+}
+
+#character-input:not(:placeholder-shown) + .clear-btn {
+  display: block; /* Показувати кнопку очищення, якщо є текст */
+}
+
+/* Стиль списку з прокруткою */
+
+
+
+/* Кнопки вмінь */
+
+.ability-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.ability-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.ability-btn:hover {
+  background-color: #0056b3;
+}
+
+.ability-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Стиль для вибраної кнопки здібності */
+.ability-btn.selected {
+  background-color: #4caf50; /* Зелений фон */
+  color: white; /* Білий текст */
+  border-color: #388e3c; /* Темніша зелена рамка */
+}
+
+.timer {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#stats {
+  margin-top: 20px;
+}
+
+#game-over {
+  text-align: center;
+  color: red;
+}
+
+/* Кнопка Підтвердити */
+
+#confirm-answer-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#confirm-answer-btn:hover {
+  background-color: #218838;
+}
+
+#confirm-answer-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* */
+
+#correct-answer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#correct-answer img {
+  display: block;
+  margin: 10px auto;
+}
+
+/* Прогрес бар */
+
+#progress-container {
+  /*display: flex;*/
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+#accuracy-progress {
+  width: 200px;
+  height: 20px;
+}
+
+#accuracy-percentage {
+  font-weight: bold;
+}
+
+/* Історія статистики */
+
+#history-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+#history-table th,
+#history-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#history-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+#history-table tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+#history-table tbody tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+/* */
+
+option {
+  padding: 0;
+}
