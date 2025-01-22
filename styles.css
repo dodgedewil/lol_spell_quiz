@@ -32,32 +32,67 @@ body {
 /* */ 
 
 .input-container {
-  position: relative; /* Для контролю дочірніх елементів */
-  display: inline-flex;
-  align-items: center;
-  max-height: 21px; /* Фіксована максимальна висота */
+  position: relative; /* Контейнер для відносного позиціонування списку */
+  width: 100%; /* Ширина контейнера */
 }
 
+/* */ 
+
+#characters-list {
+  position: absolute; /* Позиціонування списку під полем вводу */
+  top: 100%; /* Розташувати список прямо під полем вводу */
+  left: 0;
+  width: 100%; /* Список займає всю ширину поля вводу */
+  background-color: #fff; /* Білий фон для списку */
+  border: 1px solid #ccc; /* Границя для списку */
+  border-top: none; /* Приховати верхню границю, щоб виглядало як одне ціле */
+  max-height: 200px; /* Обмеження висоти списку */
+  overflow-y: auto; /* Дозволити вертикальну прокрутку */
+  z-index: 1000; /* Забезпечити, щоб список знаходився поверх інших елементів */
+  display: none; /* За замовчуванням список прихований */
+  padding: 0; /* Прибрати внутрішні відступи списку */
+  margin: 0; /* Прибрати зовнішні відступи */
+}
+
+#characters-list li {
+  list-style: none; /* Вимкнути маркери списку */
+  padding: 10px; /* Внутрішній відступ для кожного елемента */
+  cursor: pointer; /* Вказівник миші при наведенні */
+}
+
+#characters-list li:hover {
+  background-color: #f0f0f0; /* Підсвітка при наведенні */
+}
+
+#characters-list option {
+  padding: 5px;
+  cursor: pointer;
+}
+
+#characters-list option:hover {
+  background-color: #f0f0f0;
+}
 
 #character-input {
-  padding-right: 5px; /* Простір для кнопок очищення */
+  width: 100%; /* Поле вводу займає всю ширину контейнера */
+  box-sizing: border-box; /* Увімкнути врахування padding і border */
+  padding: 10px; /* Внутрішні відступи для зручності */
+  border: 1px solid #ccc; /* Границя поля */
+  border-radius: 4px; /* Згладжені кути */
 }
 
 /* Кнопка очищення */
 
 .clear-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  border: none;
+  position: absolute; /* Абсолютне позиціонування кнопки очищення */
+  top: 50%; /* Вирівнювання по вертикалі */
+  right: 10px; /* Відступ справа */
+  transform: translateY(-50%); /* Центрування по вертикалі */
   background: none;
-  font-size: 16px;
+  border: none;
   cursor: pointer;
-  color: #aaa;
-}
-
-.clear-btn {
-  right: 25px; /* Зсув для кнопки очищення */
+  font-size: 14px;
+  color: #888;
   display: none; /* Кнопка прихована за замовчуванням */
 }
 
@@ -202,7 +237,3 @@ body {
 }
 
 /* */
-
-option {
-  padding: 0;
-}

@@ -50,15 +50,19 @@ fetch('abilities.json')
   })
   .catch(err => console.error('Помилка завантаження abilities.json:', err));
 
-// Заповнення списку персонажів
+// Функція для оновлення списку персонажів / Заповнення списку персонажів
 function populateCharacterList(characters) {
-  const maxVisibleItems = 10; // Максимальна кількість персонажів у списку
-  characterList.innerHTML = ''; // Очистити старі дані
+  characterList.innerHTML = ''; // Очистити список перед заповненням
   console.log('Додаємо персонажів до списку:', characters);
-  characters.slice(0, maxVisibleItems).forEach(character => {
-    const option = document.createElement('option');
-    option.value = character.name;
-    characterList.appendChild(option);
+  characters.forEach(character => {
+    const li = document.createElement('li');
+    li.textContent = character.name;
+    li.addEventListener('click', () => {
+      characterInput.value = character.name; // Вибір персонажа
+      characterList.style.display = 'none'; // Ховати список
+      enableAbilityButtons(); // Активувати кнопки здібностей
+    });
+    characterList.appendChild(li);
   });
 }
 
@@ -68,13 +72,33 @@ characterInput.addEventListener('input', () => {
   const filteredCharacters = charactersData.filter(character =>
     character.name.toLowerCase().includes(inputValue)
   );
-
   // Показуємо список, якщо є збіги та введення ще не є повним ім'ям персонажа
-  if (inputValue && filteredCharacters.length > 0 && !isCharacterValid(characterInput.value)) {
+  if (filteredCharacters.length > 0 && inputValue) {
     populateCharacterList(filteredCharacters);
-    characterList.style.display = 'block';
+    characterList.style.display = 'block'; // Показати список
   } else {
+    characterList.style.display = 'none'; // Ховати список, якщо немає збігів
+  }
+});
+
+// Приховувати список при втраті фокусу
+characterInput.addEventListener('blur', () => {
+  // Додаємо невелику затримку, щоб кліки по списку не закривали його передчасно
+  setTimeout(() => {
     characterList.style.display = 'none'; // Ховаємо список
+  }, 200);
+});
+
+// Показувати список при повторному фокусі
+characterInput.addEventListener('focus', () => {
+  const inputValue = characterInput.value.toLowerCase();
+  const filteredCharacters = charactersData.filter(character =>
+    character.name.toLowerCase().includes(inputValue)
+  );
+
+  if (filteredCharacters.length > 0) {
+    populateCharacterList(filteredCharacters);
+    characterList.style.display = 'block'; // Показуємо список
   }
 });
 
@@ -96,7 +120,6 @@ characterInput.addEventListener('change', () => {
 function isCharacterValid(characterName) {
   return charactersData.some(character => character.name.toLowerCase() === characterName.toLowerCase());
 }
-
 
 // Запуск гри
 startBtn.addEventListener('click', () => {
@@ -218,20 +241,20 @@ confirmAnswerBtn.addEventListener('click', () => {
   const character = charactersData.find(char => char.name === selectedCharacter);
 
   if (character) {
-    const ability = character.abilities.find(abil => abil.type === selectedAbility);
+    const abilitiesOfType = character.abilities.filter(abil => abil.type.toLowerCase().trim() === selectedAbility.toLowerCase().trim());
 
-    if (ability && ability.name === currentAbility.name) {
-      currentStreak++;
-      if (currentStreak > bestStreak) bestStreak = currentStreak;
-      addHistoryRecord(`✔️ ${selectedCharacter} (${selectedAbility})`);
-      updateAccuracyProgress(true); // Оновлення прогресу бару
-      updateStats();
-      loadNewAbility();
-    } else {
-      addHistoryRecord(`❌ ${selectedCharacter} (${selectedAbility})`);
-      updateAccuracyProgress(false); // Оновлення прогресу бару
-      endGame();
-    }
+  if (abilitiesOfType.length > 0 && abilitiesOfType.some(abil => abil.name === currentAbility.name)) {
+    currentStreak++;
+    if (currentStreak > bestStreak) bestStreak = currentStreak;
+    addHistoryRecord(`✔️ ${selectedCharacter} (${selectedAbility})`);
+    updateAccuracyProgress(true); // Оновлення прогресу бару
+    updateStats();
+    loadNewAbility();
+  } else {
+  addHistoryRecord(`❌ ${selectedCharacter} (${selectedAbility})`);
+  updateAccuracyProgress(false); // Оновлення прогресу бару
+  endGame();
+  }
   } else {
     endGame();
   }

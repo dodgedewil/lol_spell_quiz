@@ -17,9 +17,9 @@
       <div>
         <label for="character-input">Ім'я персонажа:</label>
         <div class="input-container">
-          <input list="characters-list" id="character-input" placeholder="Введіть ім'я персонажа">
-          <button id="clear-input-btn" class="clear-btn" type="button">×</button>
-          <datalist id="characters-list"></datalist>
+          <input type="text" id="character-input" placeholder="Введіть ім'я персонажа" autocomplete="off"/>
+          <button class="clear-btn" id="clear-input-btn">✖</button>
+          <ul id="characters-list"></ul> <!-- Список персонажів -->
         </div>
       </div>      
       <div class="ability-buttons">
