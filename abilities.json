@@ -102,7 +102,12 @@
         "name": "Aphelios",
         "abilities": [
           { "name": "The Hitman and the Seer", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_The_Hitman_and_the_Seer.png" },
-  
+          { "name": "Moonshot", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_Moonshot.png" },
+          { "name": "Onslaught", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_Onslaught.png" },
+          { "name": "Binding Eclipse", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_Binding_Eclipse.png" },
+          { "name": "Duskwave", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_Duskwave.png" },
+          { "name": "Sentry", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_Sentry.png" },
+
           { "name": "Moonlight Vigil", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aphelios_Moonlight_Vigil.png" }
         ]
       },
@@ -125,8 +130,8 @@
           { "name": "Astral Flight", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Astral_Flight.png" },
           { "name": "Astral Flight", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Astral_Flight_2.png" },
           { "name": "Singularity", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Singularity.png" },
-          { "name": "Falling Star / The Skies Descend", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Falling_Star.png" },
-          { "name": "Falling Star / The Skies Descend", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_The_Skies_Descend.png" }
+          { "name": "Falling Star", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_Falling_Star.png" },
+          { "name": "The Skies Descend", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Aurelion_Sol_The_Skies_Descend.png" }
         ]
       },
       {
@@ -159,6 +164,90 @@
           { "name": "Caretaker's Shrine", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Caretaker%27s_Shrine.png" },
           { "name": "Magical Journey", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Magical_Journey.png" },
           { "name": "Tempered Fate", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Bard_Tempered_Fate.png" }
+        ]
+      },
+      {
+        "name": "Bel'Veth",
+        "abilities": [
+          { "name": "Death in Lavender", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Bel%27Veth_Death_in_Lavender.png" },
+          { "name": "Void Surge", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Bel%27Veth_Void_Surge.png" },
+          { "name": "Above and Below", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Bel%27Veth_Above_and_Below.png" },
+          { "name": "Royal Maelstrom", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Bel%27Veth_Royal_Maelstrom.png" },
+          { "name": "Endless Banquet", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Bel%27Veth_Endless_Banquet.png" }
+        ]
+      },
+      {
+        "name": "Blitzcrank",
+        "abilities": [
+          { "name": "Mana Barrier", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Blitzcrank_Mana_Barrier.png" },
+          { "name": "Rocket Grab", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Blitzcrank_Rocket_Grab.png" },
+          { "name": "Overdrive", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Blitzcrank_Overdrive.png" },
+          { "name": "Power Fist", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Blitzcrank_Power_Fist.png" },
+          { "name": "Static Field", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Blitzcrank_Static_Field.png" }
+        ]
+      },
+      {
+        "name": "Brand",
+        "abilities": [
+          { "name": "Blaze", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Brand_Blaze.png" },
+          { "name": "Sear", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Brand_Sear.png" },
+          { "name": "Pillar of Flame", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Brand_Pillar_of_Flame.png" },
+          { "name": "Conflagration", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Brand_Conflagration.png" },
+          { "name": "Pyroclasm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Brand_Pyroclasm.png" }
+        ]
+      },
+      {
+        "name": "Braum",
+        "abilities": [
+          { "name": "Concussive Blows", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Braum_Concussive_Blows.png" },
+          { "name": "Winter's Bite", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Braum_Winter%27s_Bite.png" },
+          { "name": "Stand Behind Me", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Braum_Stand_Behind_Me.png" },
+          { "name": "Unbreakable", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Braum_Unbreakable.png" },
+          { "name": "Glacial Fissure", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Braum_Glacial_Fissure.png" }
+        ]
+      },
+      {
+        "name": "Briar",
+        "abilities": [
+          { "name": "Crimson Curse", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Briar_Crimson_Curse.png" },
+          { "name": "Head Rush", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Briar_Head_Rush.png" },
+          { "name": "Blood Frenzy", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Briar_Blood_Frenzy.png" },
+          { "name": "Snack Attack", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Briar_Snack_Attack.png" },
+          { "name": "Chilling Scream", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Briar_Chilling_Scream.png" },
+          { "name": "Certain Death", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Briar_Certain_Death.png" }
+        ]
+      },
+      {
+        "name": "Caitlyn",
+        "abilities": [
+          { "name": "Headshot", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Caitlyn_Headshot.png" },
+          { "name": "Piltover Peacemaker", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Caitlyn_Piltover_Peacemaker.png" },
+          { "name": "Yordle Snap Trap", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Caitlyn_Yordle_Snap_Trap.png" },
+          { "name": "90 Caliber Net", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Caitlyn_90_Caliber_Net.png" },
+          { "name": "Ace in the Hole", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Caitlyn_Ace_in_the_Hole.png" }
+        ]
+      },
+      {
+        "name": "Camille",
+        "abilities": [
+          { "name": "Adaptive Defenses", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_Adaptive_Defenses.png" },
+          { "name": "Precision Protocol", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_Precision_Protocol.png" },
+          { "name": "Precision Protocol", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_Precision_Protocol_2.png" },
+          { "name": "Precision Protocol", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_Precision_Protocol_3.png" },
+          { "name": "Tactical Sweep", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_Tactical_Sweep.png" },
+          { "name": "Hookshot", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_Hookshot.png" },
+          { "name": "Wall Dive", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_Wall_Dive.png" },
+          { "name": "The Hextech Ultimatum", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Camille_The_Hextech_Ultimatum.png" }
+        ]
+      },
+      {
+        "name": "Cassiopeia",
+        "abilities": [
+          { "name": "Serpentine Grace", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Cassiopeia_Serpentine_Grace.png" },
+          { "name": "Noxious Blast", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Cassiopeia_Noxious_Blast.png" },
+          { "name": "Miasma", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Cassiopeia_Miasma.png" },
+          { "name": "Twin Fang", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Cassiopeia_Twin_Fang.png" },
+          { "name": "Petrifying Gaze", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Cassiopeia_Petrifying_Gaze.png" }
         ]
       }
     ]
