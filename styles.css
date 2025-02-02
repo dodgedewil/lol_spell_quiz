@@ -157,6 +157,14 @@ body {
 
 /* */
 
+.character-name {
+  display: block; /* Забезпечує, що label буде на окремому рядку */
+  margin-bottom: 10px; /* Зменш відступ вниз, щоб підняти вгору */
+  font-size: 16px; /* (Опціонально) Можна збільшити/зменшити розмір шрифту */
+}
+
+/* */
+
 input[type="text"] {
   width: 100%;
   padding: 10px;
@@ -217,7 +225,6 @@ input[type="text"] {
   padding: 10px; /* Внутрішні відступи для зручності */
   border: 1px solid #666; /* Границя поля */
   border-radius: 4px; /* Згладжені кути */
-  margin-top: 10px;
 }
 
 /* Кнопка очищення */
