@@ -249,6 +249,1638 @@
           { "name": "Twin Fang", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Cassiopeia_Twin_Fang.png" },
           { "name": "Petrifying Gaze", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Cassiopeia_Petrifying_Gaze.png" }
         ]
+      },
+      {
+        "name": "Cho'Gath",
+        "abilities": [
+          { "name": "Carnivore", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Cho%27Gath_Carnivore.png" },
+          { "name": "Rupture", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Cho%27Gath_Rupture.png" },
+          { "name": "Feral Scream", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Cho%27Gath_Feral_Scream.png" },
+          { "name": "Vorpal Spikes", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Cho%27Gath_Vorpal_Spikes.png" },
+          { "name": "Feast", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Cho%27Gath_Feast.png" }
+        ]
+      },
+      {
+        "name": "Corki",
+        "abilities": [
+          { "name": "Hextech Munitions", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Corki_Hextech_Munitions.png" },
+          { "name": "Phosphorus Bomb", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Corki_Phosphorus_Bomb.png" },
+          { "name": "Valkyrie", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Corki_Valkyrie.png" },
+          { "name": "Gatling Gun", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Corki_Gatling_Gun.png" },
+          { "name": "Missile Barrage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Corki_Missile_Barrage.png" },
+          { "name": "Missile Barrage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Corki_Big_One.png" }
+
+        ]
+      },
+      {
+        "name": "Darius",
+        "abilities": [
+          { "name": "Hemorrhage", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Darius_Hemorrhage.png" },
+          { "name": "Decimate", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Darius_Decimate.png" },
+          { "name": "Crippling Strike", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Darius_Crippling_Strike.png" },
+          { "name": "Apprehend", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Darius_Apprehend.png" },
+          { "name": "Noxian Guillotine", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Darius_Noxian_Guillotine.png" }
+        ]
+      },
+      {
+        "name": "Diana",
+        "abilities": [
+          { "name": "Moonsilver Blade", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Diana_Moonsilver_Blade.png" },
+          { "name": "Crescent Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Diana_Crescent_Strike.png" },
+          { "name": "Pale Cascade", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Diana_Pale_Cascade.png" },
+          { "name": "Lunar Rush", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Diana_Lunar_Rush.png" },
+          { "name": "Moonfall", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Diana_Moonfall.png" }
+        ]
+      },
+      {
+        "name": "Dr. Mundo",
+        "abilities": [
+          { "name": "Goes Where He Pleases", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Dr._Mundo_Goes_Where_He_Pleases.png" },
+          { "name": "Infected Bonesaw", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Dr._Mundo_Infected_Bonesaw.png" },
+          { "name": "Heart Zapper", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Dr._Mundo_Heart_Zapper.png" },
+          { "name": "Heart Zapper", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Dr._Mundo_Heart_Zapper_2.png" },
+          { "name": "Blunt Force Trauma", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Dr._Mundo_Blunt_Force_Trauma.png" },
+          { "name": "Maximum Dosage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Dr._Mundo_Maximum_Dosage.png" }
+        ]
+      },
+      {
+        "name": "Draven",
+        "abilities": [
+          { "name": "League of Draven", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Draven_League_of_Draven.png" },
+          { "name": "Spinning Axe", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Draven_Spinning_Axe.png" },
+          { "name": "Blood Rush", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Draven_Blood_Rush.png" },
+          { "name": "Stand Aside", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Draven_Stand_Aside.png" },
+          { "name": "Whirling Death", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Draven_Whirling_Death.png" },
+          { "name": "Whirling Death", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Draven_Whirling_Death_2.png" }
+        ]
+      },
+      {
+        "name": "Ekko",
+        "abilities": [
+          { "name": "Z-Drive Resonance", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ekko_Z-Drive_Resonance.png" },
+          { "name": "Timewinder", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ekko_Timewinder.png" },
+          { "name": "Parallel Convergence", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ekko_Parallel_Convergence.png" },
+          { "name": "Phase Dive", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ekko_Phase_Dive.png" },
+          { "name": "Chronobreak", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ekko_Chronobreak.png" }
+        ]
+      },
+      {
+        "name": "Elise",
+        "abilities": [
+          { "name": "Spider Queen", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Spider_Queen.png" },
+          { "name": "Neurotoxin", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Neurotoxin.png" },
+          { "name": "Venomous Bite", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Venomous_Bite.png" },
+          { "name": "Volatile Spiderling", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Volatile_Spiderling.png" },
+          { "name": "Skittering Frenzy", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Skittering_Frenzy.png" },
+          { "name": "Cocoon", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Cocoon.png" },
+          { "name": "Rappel", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Rappel.png" },
+          { "name": "Spider Form / Human Form", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Elise_Spider_Form.png" }
+        ]
+      },
+      {
+        "name": "Evelynn",
+        "abilities": [
+          { "name": "Demon Shade", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_Demon_Shade.png" },
+          { "name": "Hate Spike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_Hate_Spike.png" },
+          { "name": "Hate Spike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_Hate_Spike_2.png" },
+          { "name": "Allure", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_Allure.png" },
+          { "name": "Whiplash", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_Whiplash.png" },
+          { "name": "Empowered Whiplash", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_Empowered_Whiplash.png" },
+          { "name": "Last Caress", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_Last_Caress.png" }
+        ]
+      },
+      {
+        "name": "Ezreal",
+        "abilities": [
+          { "name": "Rising Spell Force", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ezreal_Rising_Spell_Force.png" },
+          { "name": "Mystic Shot", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ezreal_Mystic_Shot.png" },
+          { "name": "Essence Flux", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ezreal_Essence_Flux.png" },
+          { "name": "Arcane Shift", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ezreal_Arcane_Shift.png" },
+          { "name": "Trueshot Barrage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ezreal_Trueshot_Barrage.png" }
+        ]
+      },
+      {
+        "name": "Fiddlesticks",
+        "abilities": [
+          { "name": "A Harmless Scarecrow", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiddlesticks_A_Harmless_Scarecrow.png" },
+          { "name": "Terrify", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiddlesticks_Terrify.png" },
+          { "name": "Bountiful Harvest", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiddlesticks_Bountiful_Harvest.png" },
+          { "name": "Reap", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiddlesticks_Reap.png" },
+          { "name": "Crowstorm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiddlesticks_Crowstorm.png" }
+        ]
+      },
+      {
+        "name": "Fiora",
+        "abilities": [
+          { "name": "Duelist's Dance", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiora_Duelist%27s_Dance.png" },
+          { "name": "Lunge", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiora_Lunge.png" },
+          { "name": "Riposte", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiora_Riposte.png" },
+          { "name": "Bladework", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiora_Bladework.png" },
+          { "name": "Grand Challenge", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Fiora_Grand_Challenge.png" }
+        ]
+      },
+      {
+        "name": "Fizz",
+        "abilities": [
+          { "name": "Nimble Fighter", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Fizz_Nimble_Fighter.png" },
+          { "name": "Urchin Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Fizz_Urchin_Strike.png" },
+          { "name": "Seastone Trident", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Fizz_Seastone_Trident.png" },
+          { "name": "Playful", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Fizz_Playful.png" },
+          { "name": "Trickster", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Fizz_Trickster.png" },
+          { "name": "Chum the Waters", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Fizz_Chum_the_Waters.png" }
+        ]
+      },
+      {
+        "name": "Galio",
+        "abilities": [
+          { "name": "Colossal Smash", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Galio_Colossal_Smash.png" },
+          { "name": "Winds of War", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Galio_Winds_of_War.png" },
+          { "name": "Shield of Durand", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Galio_Shield_of_Durand.png" },
+          { "name": "Justice Punch", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Galio_Justice_Punch.png" },
+          { "name": "Hero's Entrance", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Galio_Hero%27s_Entrance.png" }
+        ]
+      },
+      {
+        "name": "Gangplank",
+        "abilities": [
+          { "name": "Trial by Fire", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Gangplank_Trial_by_Fire.png" },
+          { "name": "Parrrley", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Gangplank_Parrrley.png" },
+          { "name": "Remove Scurvy", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Gangplank_Remove_Scurvy.png" },
+          { "name": "Powder Keg", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Gangplank_Powder_Keg.png" },
+          { "name": "Cannon Barrage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Gangplank_Cannon_Barrage.png" }
+        ]
+      },
+      {
+        "name": "Garen",
+        "abilities": [
+          { "name": "Perseverance", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Garen_Perseverance.png" },
+          { "name": "Decisive Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Garen_Decisive_Strike.png" },
+          { "name": "Courage", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Garen_Courage.png" },
+          { "name": "Judgment", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Garen_Judgment.png" },
+          { "name": "Judgment", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Garen_Judgment_2.png" },
+          { "name": "Demacian Justice", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Garen_Demacian_Justice.png" }
+        ]
+      },
+      {
+        "name": "Gnar",
+        "abilities": [
+          { "name": "Rage Gene", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Rage_Gene.png" },
+          { "name": "Boomerang Throw", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Boomerang_Throw.png" },
+          { "name": "Boulder Toss", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Boulder_Toss.png" },
+          { "name": "Hyper", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Hyper.png" },
+          { "name": "Wallop", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Wallop.png" },
+          { "name": "Hop", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Hop.png" },
+          { "name": "Crunch", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Crunch.png" },
+          { "name": "Crunch", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_Hop_and_Crunch.png" },
+          { "name": "GNAR!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Gnar_GNAR%21.png" }
+        ]
+      },
+      {
+        "name": "Gragas",
+        "abilities": [
+          { "name": "Happy Hour", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Gragas_Happy_Hour.png" },
+          { "name": "Barrel Roll", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Gragas_Barrel_Roll.png" },
+          { "name": "Barrel Roll", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Gragas_Barrel_Roll_2.png" },
+          { "name": "Drunken Rage", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Gragas_Drunken_Rage.png" },
+          { "name": "Body Slam", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Gragas_Body_Slam.png" },
+          { "name": "Explosive Cask", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Gragas_Explosive_Cask.png" }
+        ]
+      },
+      {
+        "name": "Graves",
+        "abilities": [
+          { "name": "New Destiny", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Graves_New_Destiny.png" },
+          { "name": "End of the Line", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Graves_End_of_the_Line.png" },
+          { "name": "Smoke Screen", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Graves_Smoke_Screen.png" },
+          { "name": "Quickdraw", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Graves_Quickdraw.png" },
+          { "name": "Collateral Damage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Graves_Collateral_Damage.png" }
+        ]
+      },
+      {
+        "name": "Gwen",
+        "abilities": [
+          { "name": "Thousand Cuts", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Gwen_Thousand_Cuts.png" },
+          { "name": "Snip Snip!", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Gwen_Snip_Snip%21.png" },
+          { "name": "Hallowed Mist", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Gwen_Hallowed_Mist.png" },
+          { "name": "Skip 'n Slash", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Gwen_Skip_%27n_Slash.png" },
+          { "name": "Needlework", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Gwen_Needlework.png" },
+          { "name": "Needlework", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Gwen_Needlework_2.png" },
+          { "name": "Needlework", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Gwen_Needlework_3.png" }
+        ]
+      },
+      {
+        "name": "Hecarim",
+        "abilities": [
+          { "name": "Warpath", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Hecarim_Warpath.png" },
+          { "name": "Rampage", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Hecarim_Rampage.png" },
+          { "name": "Spirit of Dread", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Hecarim_Spirit_of_Dread.png" },
+          { "name": "Devastating Charge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Hecarim_Devastating_Charge.png" },
+          { "name": "Onslaught of Shadows", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Hecarim_Onslaught_of_Shadows.png" }
+        ]
+      },
+      {
+        "name": "Heimerdinger",
+        "abilities": [
+          { "name": "Hextech Affinity", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_Hextech_Affinity.png" },
+          { "name": "H-28G Evolution Turret", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_H-28G_Evolution_Turret.png" },
+          { "name": "H-28G Evolution Turret", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_H-28Q_Apex_Turret.png" },
+          { "name": "Hextech Micro-Rockets", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_Hextech_Micro-Rockets.png" },
+          { "name": "Hextech Rocket Swarm", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_Hextech_Rocket_Swarm.png" },
+          { "name": "CH-2 Electron Storm Grenade", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_CH-2_Electron_Storm_Grenade.png" },
+          { "name": "CH-3X Lightning Grenade", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_CH-3X_Lightning_Grenade.png" },
+          { "name": "UPGRADE!!!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_UPGRADE%21%21%21.png" }
+        ]
+      },
+      {
+        "name": "Hwei",
+        "abilities": [
+          { "name": "Signature of the Visionary", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Signature_of_the_Visionary.png" },
+          { "name": "Subject: Disaster", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Subject-_Disaster.png" },
+          { "name": "Devastating Fire", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Devastating_Fire.png" },
+          { "name": "Severing Bolt", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Severing_Bolt.png" },
+          { "name": "Molten Fissure", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Molten_Fissure.png" },
+          { "name": "Subject: Serenity", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Subject-_Serenity.png" },
+          { "name": "Fleeting Current", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Fleeting_Current.png" },
+          { "name": "Pool of Reflection", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Pool_of_Reflection.png" },
+          { "name": "Stirring Lights", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Stirring_Lights.png" },
+          { "name": "Subject: Torment", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Subject-_Torment.png" },
+          { "name": "Grim Visage", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Grim_Visage.png" },
+          { "name": "Gaze of the Abyss", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Gaze_of_the_Abyss.png" },
+          { "name": "Crushing Maw", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Crushing_Maw.png" },
+          { "name": "Spiraling Despair", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Hwei_Spiraling_Despair.png" }
+        ]
+      },
+      {
+        "name": "Illaoi",
+        "abilities": [
+          { "name": "Prophet of an Elder God", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Illaoi_Prophet_of_an_Elder_God.png" },
+          { "name": "Tentacle Smash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Illaoi_Tentacle_Smash.png" },
+          { "name": "Harsh Lesson", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Illaoi_Harsh_Lesson.png" },
+          { "name": "Test of Spirit", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Illaoi_Test_of_Spirit.png" },
+          { "name": "Leap of Faith", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Illaoi_Leap_of_Faith.png" }
+        ]
+      },
+      {
+        "name": "Irelia",
+        "abilities": [
+          { "name": "Ionian Fervor", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Irelia_Ionian_Fervor.png" },
+          { "name": "Bladesurge", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Irelia_Bladesurge.png" },
+          { "name": "Defiant Dance", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Irelia_Defiant_Dance.png" },
+          { "name": "Flawless Duet", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Irelia_Flawless_Duet.png" },
+          { "name": "Flawless Duet", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Irelia_Flawless_Duet_2.png" },
+          { "name": "Vanguard's Edge", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Irelia_Vanguard%27s_Edge.png" }
+        ]
+      },
+      {
+        "name": "Ivern",
+        "abilities": [
+          { "name": "Friend of the Forest", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ivern_Friend_of_the_Forest.png" },
+          { "name": "Rootcaller", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ivern_Rootcaller.png" },
+          { "name": "Brushmaker", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ivern_Brushmaker.png" },
+          { "name": "Triggerseed", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ivern_Triggerseed.png" },
+          { "name": "Daisy!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ivern_Daisy%21.png" },
+          { "name": "Daisy!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ivern_Daisy%2C_wait%21.png" }
+        ]
+      },
+      {
+        "name": "Janna",
+        "abilities": [
+          { "name": "Tailwind", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Janna_Tailwind.png" },
+          { "name": "Howling Gale", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Janna_Howling_Gale.png" },
+          { "name": "Zephyr", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Janna_Zephyr.png" },
+          { "name": "Eye of the Storm", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Janna_Eye_of_the_Storm.png" },
+          { "name": "Monsoon", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Janna_Monsoon.png" }
+        ]
+      },
+      {
+        "name": "Jarvan IV",
+        "abilities": [
+          { "name": "Martial Cadence", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Jarvan_IV_Martial_Cadence.png" },
+          { "name": "Dragon Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Jarvan_IV_Dragon_Strike.png" },
+          { "name": "Golden Aegis", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Jarvan_IV_Golden_Aegis.png" },
+          { "name": "Demacian Standard", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Jarvan_IV_Demacian_Standard.png" },
+          { "name": "Cataclysm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jarvan_IV_Cataclysm.png" }
+        ]
+      },
+      {
+        "name": "Jax",
+        "abilities": [
+          { "name": "Relentless Assault", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Jax_Relentless_Assault.png" },
+          { "name": "Leap Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Jax_Leap_Strike.png" },
+          { "name": "Empower", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Jax_Empower.png" },
+          { "name": "Counter Strike", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Jax_Counter_Strike.png" },
+          { "name": "Grandmaster-At-Arms", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jax_Grandmaster-At-Arms.png" }
+        ]
+      },
+      {
+        "name": "Jayce",
+        "abilities": [
+          { "name": "Hextech Capacitor", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Hextech_Capacitor.png" },
+          { "name": "Hextech Capacitor", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Hextech_Capacitor_2.png" },
+          { "name": "To the Skies!", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_To_the_Skies%21.png" },
+          { "name": "Shock Blast", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Shock_Blast.png" },
+          { "name": "Lightning Field", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Lightning_Field.png" },
+          { "name": "Hyper Charge", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Hyper_Charge.png" },
+          { "name": "Thundering Blow", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Thundering_Blow.png" },
+          { "name": "Acceleration Gate", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Acceleration_Gate.png" },
+          { "name": "Transform Mercury Cannon", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Transform_Mercury_Cannon.png" },
+          { "name": "Transform Mercury Hammer", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jayce_Transform_Mercury_Hammer.png" }
+        ]
+      },
+      {
+        "name": "Jhin",
+        "abilities": [
+          { "name": "Whisper", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Jhin_Whisper.png" },
+          { "name": "Dancing Grenade", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Jhin_Dancing_Grenade.png" },
+          { "name": "Deadly Flourish", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Jhin_Deadly_Flourish.png" },
+          { "name": "Captive Audience", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Jhin_Captive_Audience.png" },
+          { "name": "Curtain Call", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jhin_Curtain_Call.png" },
+          { "name": "Curtain Call", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jhin_Curtain_Call_2.png" },
+          { "name": "Curtain Call", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jhin_Curtain_Call_3.png" }
+        ]
+      },
+      {
+        "name": "Jinx",
+        "abilities": [
+          { "name": "Get Excited!", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Jinx_Get_Excited%21.png" },
+          { "name": "Switcheroo!", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Jinx_Pow-Pow.png" },
+          { "name": "Switcheroo!", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Jinx_Switcheroo%21.png" },
+          { "name": "Zap!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Jinx_Zap%21.png" },
+          { "name": "Flame Chompers!", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Jinx_Flame_Chompers%21.png" },
+          { "name": "Super Mega Death Rocket!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Jinx_Super_Mega_Death_Rocket%21.png" }
+        ]
+      },
+      {
+        "name": "K'Sante",
+        "abilities": [
+          { "name": "Dauntless Instinct", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_Dauntless_Instinct.png" },
+          { "name": "Ntofo Strikes", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_Ntofo_Strikes.png" },
+          { "name": "Ntofo Strikes", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_Ntofo_Strikes_2.png" },
+          { "name": "Ntofo Strikes", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_Ntofo_Strikes_3.png" },
+          { "name": "Path Maker", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_Path_Maker.png" },
+          { "name": "Footwork", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_Footwork.png" },
+          { "name": "All Out", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/K%27Sante_All_Out.png" }
+        ]
+      },
+      {
+        "name": "Kai'Sa",
+        "abilities": [
+          { "name": "Second Skin", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Second_Skin.png" },
+          { "name": "Icathian Rain", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Icathian_Rain.png" },
+          { "name": "Icathian Rain", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Icathian_Rain_2.png" },
+          { "name": "Void Seeker", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Void_Seeker.png" },
+          { "name": "Void Seeker", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Void_Seeker_2.png" },
+          { "name": "Supercharge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Supercharge.png" },
+          { "name": "Supercharge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Supercharge_2.png" },
+          { "name": "Killer Instinct", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_Killer_Instinct.png" }
+        ]
+      },
+      {
+        "name": "Kalista",
+        "abilities": [
+          { "name": "Martial Poise", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kalista_Martial_Poise.png" },
+          { "name": "Pierce", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kalista_Pierce.png" },
+          { "name": "Sentinel", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kalista_Sentinel.png" },
+          { "name": "Rend", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kalista_Rend.png" },
+          { "name": "Fate's Call", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kalista_Fate%27s_Call.png" }
+        ]
+      },
+      {
+        "name": "Karma",
+        "abilities": [
+          { "name": "Gathering Fire", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Gathering_Fire.png" },
+          { "name": "Inner Flame", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Inner_Flame.png" },
+          { "name": "Soulflare", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Soulflare.png" },
+          { "name": "Focused Resolve", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Focused_Resolve.png" },
+          { "name": "Renewal", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Renewal.png" },
+          { "name": "Inspire", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Inspire.png" },
+          { "name": "Defiance", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Defiance.png" },
+          { "name": "Mantra", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Karma_Mantra.png" }
+        ]
+      },
+      {
+        "name": "Karthus",
+        "abilities": [
+          { "name": "Death Defied", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Karthus_Death_Defied.png" },
+          { "name": "Lay Waste", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Karthus_Lay_Waste.png" },
+          { "name": "Wall of Pain", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Karthus_Wall_of_Pain.png" },
+          { "name": "Defile", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Karthus_Defile.png" },
+          { "name": "Requiem", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Karthus_Requiem.png" }
+        ]
+      },
+      {
+        "name": "Kassadin",
+        "abilities": [
+          { "name": "Void Stone", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_Void_Stone.png" },
+          { "name": "Null Sphere", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_Null_Sphere.png" },
+          { "name": "Nether Blade", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_Nether_Blade.png" },
+          { "name": "Force Pulse", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_Force_Pulse.png" },
+          { "name": "Riftwalk", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_Riftwalk.png" }
+        ]
+      },
+      {
+        "name": "Katarina",
+        "abilities": [
+          { "name": "Voracity", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Katarina_Voracity.png" },
+          { "name": "Bouncing Blade", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Katarina_Bouncing_Blade.png" },
+          { "name": "Preparation", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Katarina_Preparation.png" },
+          { "name": "Shunpo", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Katarina_Shunpo.png" },
+          { "name": "Death Lotus", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Katarina_Death_Lotus.png" }
+        ]
+      },
+      {
+        "name": "Kayle",
+        "abilities": [
+          { "name": "Divine Ascent", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayle_Divine_Ascent.png" },
+          { "name": "Radiant Blast", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayle_Radiant_Blast.png" },
+          { "name": "Celestial Blessing", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayle_Celestial_Blessing.png" },
+          { "name": "Starfire Spellblade", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayle_Starfire_Spellblade.png" },
+          { "name": "Starfire Spellblade", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayle_Starfire_Spellblade_2.png" },
+          { "name": "Divine Judgment", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayle_Divine_Judgment.png" }
+        ]
+      },
+      {
+        "name": "Kayn",
+        "abilities": [
+          { "name": "The Darkin Scythe", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_The_Darkin_Scythe.png" },
+          { "name": "The Darkin Scythe", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_The_Darkin_Scythe_A.png" },
+          { "name": "The Darkin Scythe", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_The_Darkin_Scythe_R.png" },
+          { "name": "Reaping Slash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Reaping_Slash.png" },
+          { "name": "Reaping Slash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Reaping_Slash_A.png" },
+          { "name": "Reaping Slash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Reaping_Slash_R.png" },
+          { "name": "Blade's Reach", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Blade%27s_Reach.png" },
+          { "name": "Blade's Reach", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Blade%27s_Reach_A.png" },
+          { "name": "Blade's Reach", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Blade%27s_Reach_R.png" },
+          { "name": "Shadow Step", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Shadow_Step.png" },
+          { "name": "Shadow Step", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Shadow_Step_A.png" },
+          { "name": "Shadow Step", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Shadow_Step_R.png" },
+          { "name": "Umbral Trespass", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Umbral_Trespass.png" },
+          { "name": "Umbral Trespass", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Umbral_Trespass_2.png" },
+          { "name": "Umbral Trespass", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Umbral_Trespass_R.png" },
+          { "name": "Umbral Trespass", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kayn_Umbral_Trespass_2_R.png" }
+        ]
+      },
+      {
+        "name": "Kennen",
+        "abilities": [
+          { "name": "Mark of the Storm", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kennen_Mark_of_the_Storm.png" },
+          { "name": "Thundering Shuriken", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kennen_Thundering_Shuriken.png" },
+          { "name": "Electrical Surge", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kennen_Electrical_Surge.png" },
+          { "name": "Lightning Rush", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kennen_Lightning_Rush.png" },
+          { "name": "Slicing Maelstrom", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kennen_Slicing_Maelstrom.png" }
+        ]
+      },
+      {
+        "name": "Kha'Zix",
+        "abilities": [
+          { "name": "Unseen Threat", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Unseen_Threat.png" },
+          { "name": "Taste Their Fear", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Taste_Their_Fear.png" },
+          { "name": "Evolved Reaper Claws", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Evolved_Reaper_Claws.png" },
+          { "name": "Void Spike", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Void_Spike.png" },
+          { "name": "Evolved Spike Racks", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Evolved_Spike_Racks.png" },
+          { "name": "Leap", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Leap.png" },
+          { "name": "Evolved Wings", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Evolved_Wings.png" },
+          { "name": "Void Assault", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Void_Assault.png" },
+          { "name": "Evolved Adaptive Cloaking", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kha%27Zix_Evolved_Adaptive_Cloaking.png" }
+        ]
+      },
+      {
+        "name": "Kindred",
+        "abilities": [
+          { "name": "Mark of the Kindred", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kindred_Mark_of_the_Kindred.png" },
+          { "name": "Dance of Arrows", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kindred_Dance_of_Arrows.png" },
+          { "name": "Wolf's Frenzy", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kindred_Wolf%27s_Frenzy.png" },
+          { "name": "Mounting Dread", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kindred_Mounting_Dread.png" },
+          { "name": "Lamb's Respite", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kindred_Lamb%27s_Respite.png" }
+        ]
+      },
+      {
+        "name": "Kled",
+        "abilities": [
+          { "name": "Skaarl, the Cowardly Lizard", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kled_Skaarl_the_Cowardly_Lizard.png" },
+          { "name": "Skaarl, the Cowardly Lizard", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kled_Skaarl_the_Cowardly_Lizard_2.png" },
+          { "name": "Bear Trap on a Rope", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kled_Bear_Trap_on_a_Rope.png" },
+          { "name": "Violent Tendencies", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kled_Violent_Tendencies.png" },
+          { "name": "Jousting", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kled_Jousting.png" },
+          { "name": "Jousting", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kled_Jousting_2.png" },
+          { "name": "Chaaaaaaaarge!!!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kled_Chaaaaaaaarge%21%21%21.png" }
+        ]
+      },
+      {
+        "name": "Kog'Maw",
+        "abilities": [
+          { "name": "Icathian Surprise", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Kog%27Maw_Icathian_Surprise.png" },
+          { "name": "Caustic Spittle", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Kog%27Maw_Caustic_Spittle.png" },
+          { "name": "Bio-Arcane Barrage", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Kog%27Maw_Bio-Arcane_Barrage.png" },
+          { "name": "Void Ooze", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Kog%27Maw_Void_Ooze.png" },
+          { "name": "Living Artillery", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Kog%27Maw_Living_Artillery.png" }
+        ]
+      },
+      {
+        "name": "LeBlanc",
+        "abilities": [
+          { "name": "Mirror Image", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Mirror_Image.png" },
+          { "name": "Sigil of Malice", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Sigil_of_Malice.png" },
+          { "name": "Distortion", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Distortion.png" },
+          { "name": "Distortion", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Distortion_2.png" },
+          { "name": "Ethereal Chains", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Ethereal_Chains.png" },
+          { "name": "Mimic", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Mimic.png" },
+          { "name": "Mimic: Sigil of Malice", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Mimic-_Sigil_of_Malice.png" },
+          { "name": "Mimic: Distortion", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Mimic-_Distortion.png" },
+          { "name": "Mimic: Distortion", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Mimic-_Distortion_2.png" },
+          { "name": "Mimic: Ethereal Chains", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/LeBlanc_Mimic-_Ethereal_Chains.png" }
+        ]
+      },
+      {
+        "name": "Lee Sin",
+        "abilities": [
+          { "name": "Flurry", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Flurry.png" },
+          { "name": "Sonic Wave", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Sonic_Wave.png" },
+          { "name": "Resonating Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Resonating_Strike.png" },
+          { "name": "Safeguard", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Safeguard.png" },
+          { "name": "Iron Will", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Iron_Will.png" },
+          { "name": "Tempest", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Tempest.png" },
+          { "name": "Cripple", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Cripple.png" },
+          { "name": "Dragon's Rage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Lee_Sin_Dragon%27s_Rage.png" }
+        ]
+      },
+      {
+        "name": "Leona",
+        "abilities": [
+          { "name": "Sunlight", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Leona_Sunlight.png" },
+          { "name": "Shield of Daybreak", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Leona_Shield_of_Daybreak.png" },
+          { "name": "Eclipse", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Leona_Eclipse.png" },
+          { "name": "Zenith Blade", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Leona_Zenith_Blade.png" },
+          { "name": "Solar Flare", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Leona_Solar_Flare.png" }
+        ]
+      },
+      {
+        "name": "Lillia",
+        "abilities": [
+          { "name": "Dream-Laden Bough", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Lillia_Dream-Laden_Bough.png" },
+          { "name": "Blooming Blows", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Lillia_Blooming_Blows.png" },
+          { "name": "Watch Out! Eep!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Lillia_Watch_Out%21_Eep%21.png" },
+          { "name": "Swirlseed", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Lillia_Swirlseed.png" },
+          { "name": "Lilting Lullaby", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Lillia_Lilting_Lullaby.png" }
+        ]
+      },
+      {
+        "name": "Lissandra",
+        "abilities": [
+          { "name": "Iceborn Subjugation", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Lissandra_Iceborn_Subjugation.png" },
+          { "name": "Ice Shard", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Lissandra_Ice_Shard.png" },
+          { "name": "Ring of Frost", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Lissandra_Ring_of_Frost.png" },
+          { "name": "Glacial Path", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Lissandra_Glacial_Path.png" },
+          { "name": "Frozen Tomb", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Lissandra_Frozen_Tomb.png" }
+        ]
+      },
+      {
+        "name": "Lucian",
+        "abilities": [
+          { "name": "Lightslinger", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Lucian_Lightslinger.png" },
+          { "name": "Piercing Light", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Lucian_Piercing_Light.png" },
+          { "name": "Ardent Blaze", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Lucian_Ardent_Blaze.png" },
+          { "name": "Relentless Pursuit", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Lucian_Relentless_Pursuit.png" },
+          { "name": "The Culling", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Lucian_The_Culling.png" }
+        ]
+      },
+      {
+        "name": "Lulu",
+        "abilities": [
+          { "name": "Pix, Faerie Companion", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Lulu_Pix%2C_Faerie_Companion.png" },
+          { "name": "Glitterlance", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Lulu_Glitterlance.png" },
+          { "name": "Whimsy", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Lulu_Whimsy.png" },
+          { "name": "Help, Pix!", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Lulu_Help%2C_Pix%21.png" },
+          { "name": "Wild Growth", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Lulu_Wild_Growth.png" }
+        ]
+      },
+      {
+        "name": "Lux",
+        "abilities": [
+          { "name": "Illumination", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Lux_Illumination.png" },
+          { "name": "Light Binding", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Lux_Light_Binding.png" },
+          { "name": "Prismatic Barrier", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Lux_Prismatic_Barrier.png" },
+          { "name": "Lucent Singularity", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Lux_Lucent_Singularity.png" },
+          { "name": "Final Spark", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Lux_Final_Spark.png" }
+        ]
+      },
+      {
+        "name": "Malphite",
+        "abilities": [
+          { "name": "Granite Shield", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Malphite_Granite_Shield.png" },
+          { "name": "Seismic Shard", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Malphite_Seismic_Shard.png" },
+          { "name": "Thunderclap", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Malphite_Thunderclap.png" },
+          { "name": "Ground Slam", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Malphite_Ground_Slam.png" },
+          { "name": "Unstoppable Force", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Malphite_Unstoppable_Force.png" }
+        ]
+      },
+      {
+        "name": "Malzahar",
+        "abilities": [
+          { "name": "Void Shift", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Malzahar_Void_Shift.png" },
+          { "name": "Call of the Void", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Malzahar_Call_of_the_Void.png" },
+          { "name": "Void Swarm", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Malzahar_Void_Swarm.png" },
+          { "name": "Malefic Visions", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Malzahar_Malefic_Visions.png" },
+          { "name": "Nether Grasp", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Malzahar_Nether_Grasp.png" }
+        ]
+      },
+      {
+        "name": "Maokai",
+        "abilities": [
+          { "name": "Sap Magic", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Maokai_Sap_Magic.png" },
+          { "name": "Bramble Smash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Maokai_Bramble_Smash.png" },
+          { "name": "Twisted Advance", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Maokai_Twisted_Advance.png" },
+          { "name": "Sapling Toss", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Maokai_Sapling_Toss.png" },
+          { "name": "Nature's Grasp", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Maokai_Nature%27s_Grasp.png" }
+        ]
+      },
+      {
+        "name": "Master Yi",
+        "abilities": [
+          { "name": "Double Strike", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Master_Yi_Double_Strike.png" },
+          { "name": "Alpha Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Master_Yi_Alpha_Strike.png" },
+          { "name": "Meditate", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Master_Yi_Meditate.png" },
+          { "name": "Wuju Style", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Master_Yi_Wuju_Style.png" },
+          { "name": "Highlander", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Master_Yi_Highlander.png" }
+        ]
+      },
+      {
+        "name": "Mel",
+        "abilities": [
+          { "name": "Searing Brilliance", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Mel_Searing_Brilliance.png" },
+          { "name": "Radiant Volley", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Mel_Radiant_Volley.png" },
+          { "name": "Rebuttal", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Mel_Rebuttal.png" },
+          { "name": "Solar Snare", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Mel_Solar_Snare.png" },
+          { "name": "Golden Eclipse", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Mel_Golden_Eclipse.png" }
+        ]
+      },
+      {
+        "name": "Milio",
+        "abilities": [
+          { "name": "Fired Up!", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Milio_Fired_Up%21.png" },
+          { "name": "Ultra Mega Fire Kick", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Milio_Ultra_Mega_Fire_Kick.png" },
+          { "name": "Cozy Campfire", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Milio_Cozy_Campfire.png" },
+          { "name": "Cozy Campfire", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Milio_Cozy_Campfire_2.png" },
+          { "name": "Warm Hugs", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Milio_Warm_Hugs.png" },
+          { "name": "Breath of Life", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Milio_Breath_of_Life.png" }
+        ]
+      },
+      {
+        "name": "Miss Fortune",
+        "abilities": [
+          { "name": "Love Tap", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Miss_Fortune_Love_Tap.png" },
+          { "name": "Double Up", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Miss_Fortune_Double_Up.png" },
+          { "name": "Strut", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Miss_Fortune_Strut.png" },
+          { "name": "Make It Rain", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Miss_Fortune_Make_It_Rain.png" },
+          { "name": "Bullet Time", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Miss_Fortune_Bullet_Time.png" }
+        ]
+      },
+      {
+        "name": "Mordekaiser",
+        "abilities": [
+          { "name": "Darkness Rise", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Mordekaiser_Darkness_Rise.png" },
+          { "name": "Obliterate", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Mordekaiser_Obliterate.png" },
+          { "name": "Indestructible", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Mordekaiser_Indestructible.png" },
+          { "name": "Indestructible", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Mordekaiser_Indestructible_2.png" },
+          { "name": "Death's Grasp", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Mordekaiser_Death%27s_Grasp.png" },
+          { "name": "Realm of Death", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Mordekaiser_Realm_of_Death.png" }
+        ]
+      },
+      {
+        "name": "Morgana",
+        "abilities": [
+          { "name": "Soul Siphon", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Morgana_Soul_Siphon.png" },
+          { "name": "Dark Binding", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Morgana_Dark_Binding.png" },
+          { "name": "Tormented Shadow", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Morgana_Tormented_Shadow.png" },
+          { "name": "Black Shield", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Morgana_Black_Shield.png" },
+          { "name": "Soul Shackles", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Morgana_Soul_Shackles.png" }
+        ]
+      },
+      {
+        "name": "Naafiri",
+        "abilities": [
+          { "name": "We Are More", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Naafiri_We_Are_More.png" },
+          { "name": "Darkin Daggers", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Naafiri_Darkin_Daggers.png" },
+          { "name": "Hounds' Pursuit", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Naafiri_Hounds%27_Pursuit.png" },
+          { "name": "Eviscerate", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Naafiri_Eviscerate.png" },
+          { "name": "The Call of the Pack", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Naafiri_The_Call_of_the_Pack.png" }
+        ]
+      },
+      {
+        "name": "Nami",
+        "abilities": [
+          { "name": "Surging Tides", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Nami_Surging_Tides.png" },
+          { "name": "Aqua Prison", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nami_Aqua_Prison.png" },
+          { "name": "Ebb and Flow", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nami_Ebb_and_Flow.png" },
+          { "name": "Tidecaller's Blessing", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nami_Tidecaller%27s_Blessing.png" },
+          { "name": "Tidal Wave", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nami_Tidal_Wave.png" }
+        ]
+      },
+      {
+        "name": "Nasus",
+        "abilities": [
+          { "name": "Soul Eater", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Nasus_Soul_Eater.png" },
+          { "name": "Siphoning Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nasus_Siphoning_Strike.png" },
+          { "name": "Wither", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nasus_Wither.png" },
+          { "name": "Spirit Fire", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nasus_Spirit_Fire.png" },
+          { "name": "Fury of the Sands", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nasus_Fury_of_the_Sands.png" }
+        ]
+      },
+      {
+        "name": "Nautilus",
+        "abilities": [
+          { "name": "Staggering Blow", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Nautilus_Staggering_Blow.png" },
+          { "name": "Dredge Line", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nautilus_Dredge_Line.png" },
+          { "name": "Titan's Wrath", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nautilus_Titan%27s_Wrath.png" },
+          { "name": "Riptide", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nautilus_Riptide.png" },
+          { "name": "Depth Charge", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nautilus_Depth_Charge.png" }
+        ]
+      },
+      {
+        "name": "Neeko",
+        "abilities": [
+          { "name": "Inherent Glamour", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Neeko_Inherent_Glamour.png" },
+          { "name": "Blooming Burst", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Neeko_Blooming_Burst.png" },
+          { "name": "Shapesplitter", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Neeko_Shapesplitter.png" },
+          { "name": "Tangle-Barbs", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Neeko_Tangle-Barbs.png" },
+          { "name": "Pop Blossom", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Neeko_Pop_Blossom.png" }
+        ]
+      },
+      {
+        "name": "Nidalee",
+        "abilities": [
+          { "name": "Prowl", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Prowl.png" },
+          { "name": "Javelin Toss", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Javelin_Toss.png" },
+          { "name": "Takedown", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Takedown.png" },
+          { "name": "Bushwhack", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Bushwhack.png" },
+          { "name": "Pounce", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Pounce.png" },
+          { "name": "Primal Surge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Primal_Surge.png" },
+          { "name": "Swipe", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Swipe.png" },
+          { "name": "Aspect of the Cougar", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Aspect_of_the_Cougar.png" },
+          { "name": "Aspect of the Cougar", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_Aspect_of_the_Cougar_2.png" }
+        ]
+      },
+      {
+        "name": "Nilah",
+        "abilities": [
+          { "name": "Joy Unending", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Nilah_Joy_Unending.png" },
+          { "name": "Formless Blade", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nilah_Formless_Blade.png" },
+          { "name": "Jubilant Veil", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nilah_Jubilant_Veil.png" },
+          { "name": "Slipstream", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nilah_Slipstream.png" },
+          { "name": "Apotheosis", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nilah_Apotheosis.png" }
+        ]
+      },
+      {
+        "name": "Nocturne",
+        "abilities": [
+          { "name": "Umbra Blades", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Nocturne_Umbra_Blades.png" },
+          { "name": "Duskbringer", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nocturne_Duskbringer.png" },
+          { "name": "Shroud of Darkness", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nocturne_Shroud_of_Darkness.png" },
+          { "name": "Unspeakable Horror", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nocturne_Unspeakable_Horror.png" },
+          { "name": "Paranoia", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nocturne_Paranoia.png" }
+        ]
+      },
+      {
+        "name": "Nunu & Willump",
+        "abilities": [
+          { "name": "Call of the Freljord", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Nunu_Call_of_the_Freljord.png" },
+          { "name": "Consume", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Nunu_Consume.png" },
+          { "name": "Biggest Snowball Ever!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nunu_Biggest_Snowball_Ever%21.png" },
+          { "name": "Biggest Snowball Ever!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Nunu_Biggest_Snowball_Ever%21_2.png" },
+          { "name": "Snowball Barrage", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Nunu_Snowball_Barrage.png" },
+          { "name": "Absolute Zero", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nunu_Absolute_Zero.png" },
+          { "name": "Absolute Zero", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Nunu_Absolute_Zero_2.png" }
+        ]
+      },
+      {
+        "name": "Olaf",
+        "abilities": [
+          { "name": "Berserker Rage", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Olaf_Berserker_Rage.png" },
+          { "name": "Undertow", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Olaf_Undertow.png" },
+          { "name": "Tough It Out", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Olaf_Tough_It_Out.png" },
+          { "name": "Reckless Swing", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Olaf_Reckless_Swing.png" },
+          { "name": "Ragnarok", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Olaf_Ragnarok.png" }
+        ]
+      },
+      {
+        "name": "Orianna",
+        "abilities": [
+          { "name": "Clockwork Windup", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Orianna_Clockwork_Windup.png" },
+          { "name": "Command: Attack", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Orianna_Command-_Attack.png" },
+          { "name": "Command: Dissonance", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Orianna_Command-_Dissonance.png" },
+          { "name": "Command: Protect", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Orianna_Command-_Protect.png" },
+          { "name": "Command: Shockwave", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Orianna_Command-_Shockwave.png" }
+        ]
+      },
+      {
+        "name": "Ornn",
+        "abilities": [
+          { "name": "Living Forge", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ornn_Living_Forge.png" },
+          { "name": "Volcanic Rupture", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ornn_Volcanic_Rupture.png" },
+          { "name": "Bellows Breath", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ornn_Bellows_Breath.png" },
+          { "name": "Searing Charge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ornn_Searing_Charge.png" },
+          { "name": "Call of the Forge God", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ornn_Call_of_the_Forge_God.png" },
+          { "name": "Call of the Forge God", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ornn_Call_of_the_Forge_God_2.png" }
+        ]
+      },
+      {
+        "name": "Pantheon",
+        "abilities": [
+          { "name": "Mortal Will", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Mortal_Will.png" },
+          { "name": "Comet Spear", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Comet_Spear.png" },
+          { "name": "Comet Spear", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Comet_Spear_2.png" },
+          { "name": "Shield Vault", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Shield_Vault.png" },
+          { "name": "Shield Vault", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Shield_Vault_2.png" },
+          { "name": "Aegis Assault", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Aegis_Assault.png" },
+          { "name": "Aegis Assault", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Aegis_Assault_2.png" },
+          { "name": "Grand Starfall", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Pantheon_Grand_Starfall.png" }
+        ]
+      },
+      {
+        "name": "Poppy",
+        "abilities": [
+          { "name": "Iron Ambassador", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Poppy_Iron_Ambassador.png" },
+          { "name": "Hammer Shock", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Poppy_Hammer_Shock.png" },
+          { "name": "Steadfast Presence", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Poppy_Steadfast_Presence.png" },
+          { "name": "Heroic Charge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Poppy_Heroic_Charge.png" },
+          { "name": "Keeper's Verdict", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Poppy_Keeper%27s_Verdict.png" }
+        ]
+      },
+      {
+        "name": "Pyke",
+        "abilities": [
+          { "name": "Gift of the Drowned Ones", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Pyke_Gift_of_the_Drowned_Ones.png" },
+          { "name": "Bone Skewer", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Pyke_Bone_Skewer.png" },
+          { "name": "Ghostwater Dive", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Pyke_Ghostwater_Dive.png" },
+          { "name": "Phantom Undertow", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Pyke_Phantom_Undertow.png" },
+          { "name": "Death from Below", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Pyke_Death_from_Below.png" }
+        ]
+      },
+      {
+        "name": "Qiyana",
+        "abilities": [
+          { "name": "Royal Privilege", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Royal_Privilege.png" },
+          { "name": "Edge of Ixtal / Elemental Wrath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Edge_of_Ixtal.png" },
+          { "name": "Edge of Ixtal / Elemental Wrath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Edge_of_Ixtal_River.png" },
+          { "name": "Edge of Ixtal / Elemental Wrath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Edge_of_Ixtal_Brush.png" },
+          { "name": "Edge of Ixtal / Elemental Wrath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Edge_of_Ixtal_Rock.png" },
+          { "name": "Terrashape", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Terrashape.png" },
+          { "name": "Audacity", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Audacity.png" },
+          { "name": "Supreme Display of Talent", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Qiyana_Supreme_Display_of_Talent.png" }
+        ]
+      },
+      {
+        "name": "Quinn",
+        "abilities": [
+          { "name": "Harrier", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Quinn_Harrier.png" },
+          { "name": "Blinding Assault", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Quinn_Blinding_Assault.png" },
+          { "name": "Heightened Senses", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Quinn_Heightened_Senses.png" },
+          { "name": "Vault", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Quinn_Vault.png" },
+          { "name": "Behind Enemy Lines", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Quinn_Behind_Enemy_Lines.png" },
+          { "name": "Skystrike", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Quinn_Skystrike.png" }
+        ]
+      },
+      {
+        "name": "Rakan",
+        "abilities": [
+          { "name": "Fey Feathers", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Rakan_Fey_Feathers.png" },
+          { "name": "Gleaming Quill", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rakan_Gleaming_Quill.png" },
+          { "name": "Grand Entrance", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rakan_Grand_Entrance.png" },
+          { "name": "Battle Dance", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rakan_Battle_Dance.png" },
+          { "name": "Battle Dance", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rakan_Battle_Dance_2.png" },
+          { "name": "The Quickness", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Rakan_The_Quickness.png" }
+        ]
+      },
+      {
+        "name": "Rammus",
+        "abilities": [
+          { "name": "Spiked Shell", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Rammus_Spiked_Shell.png" },
+          { "name": "Powerball", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rammus_Powerball.png" },
+          { "name": "Defensive Ball Curl", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rammus_Defensive_Ball_Curl.png" },
+          { "name": "Frenzying Taunt", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rammus_Frenzying_Taunt.png" },
+          { "name": "Soaring Slam", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Rammus_Soaring_Slam.png" }
+        ]
+      },
+      {
+        "name": "Rek'Sai",
+        "abilities": [
+          { "name": "Fury of the Xer'Sai", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Fury_of_the_Xer%27Sai.png" },
+          { "name": "Queen's Wrath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Queen%27s_Wrath.png" },
+          { "name": "Prey Seeker", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Prey_Seeker.png" },
+          { "name": "Burrow", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Burrow.png" },
+          { "name": "Unburrow", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Unburrow.png" },
+          { "name": "Furious Bite", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Furious_Bite.png" },
+          { "name": "Tunnel", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Tunnel.png" },
+          { "name": "Void Rush", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Rek%27Sai_Void_Rush.png" }
+        ]
+      },
+      {
+        "name": "Rell",
+        "abilities": [
+          { "name": "Break the Mold", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Rell_Break_the_Mold.png" },
+          { "name": "Shattering Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rell_Shattering_Strike.png" },
+          { "name": "Ferromancy: Crash Down", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rell_Ferromancy-_Crash_Down.png" },
+          { "name": "Ferromancy: Mount Up", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rell_Ferromancy-_Mount_Up.png" },
+          { "name": "Full Tilt", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rell_Full_Tilt.png" },
+          { "name": "Magnet Storm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Rell_Magnet_Storm.png" }
+        ]
+      },
+      {
+        "name": "Renata Glasc",
+        "abilities": [
+          { "name": "Leverage", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Renata_Glasc_Leverage.png" },
+          { "name": "Handshake", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Renata_Glasc_Handshake.png" },
+          { "name": "Handshake", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Renata_Glasc_Handshake_2.png" },
+          { "name": "Bailout", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Renata_Glasc_Bailout.png" },
+          { "name": "Loyalty Program", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Renata_Glasc_Loyalty_Program.png" },
+          { "name": "Hostile Takeover", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Renata_Glasc_Hostile_Takeover.png" }
+        ]
+      },
+      {
+        "name": "Renekton",
+        "abilities": [
+          { "name": "Reign of Anger", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Renekton_Reign_of_Anger.png" },
+          { "name": "Cull the Meek", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Renekton_Cull_the_Meek.png" },
+          { "name": "Ruthless Predator", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Renekton_Ruthless_Predator.png" },
+          { "name": "Slice", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Renekton_Slice.png" },
+          { "name": "Dice", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Renekton_Dice.png" },
+          { "name": "Dominus", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Renekton_Dominus.png" }
+        ]
+      },
+      {
+        "name": "Rengar",
+        "abilities": [
+          { "name": "Unseen Predator", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Unseen_Predator.png" },
+          { "name": "Savagery", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Savagery.png" },
+          { "name": "Savagery", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Savagery_2.png" },
+          { "name": "Battle Roar", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Battle_Roar.png" },
+          { "name": "Battle Roar", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Battle_Roar_2.png" },
+          { "name": "Bola Strike", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Bola_Strike.png" },
+          { "name": "Bola Strike", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Bola_Strike_2.png" },
+          { "name": "Thrill of the Hunt", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Rengar_Thrill_of_the_Hunt.png" }
+        ]
+      },
+      {
+        "name": "Riven",
+        "abilities": [
+          { "name": "Runic Blade", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Riven_Runic_Blade.png" },
+          { "name": "Broken Wings", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Riven_Broken_Wings.png" },
+          { "name": "Ki Burst", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Riven_Ki_Burst.png" },
+          { "name": "Valor", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Riven_Valor.png" },
+          { "name": "Blade of the Exile", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Riven_Blade_of_the_Exile.png" },
+          { "name": "Wind Slash", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Riven_Wind_Slash.png" }
+        ]
+      },
+      {
+        "name": "Rumble",
+        "abilities": [
+          { "name": "Junkyard Titan", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Rumble_Junkyard_Titan.png" },
+          { "name": "Flamespitter", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Rumble_Flamespitter.png" },
+          { "name": "Scrap Shield", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Rumble_Scrap_Shield.png" },
+          { "name": "Electro Harpoon", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Rumble_Electro_Harpoon.png" },
+          { "name": "The Equalizer", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Rumble_The_Equalizer.png" }
+        ]
+      },
+      {
+        "name": "Ryze",
+        "abilities": [
+          { "name": "Arcane Mastery", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ryze_Arcane_Mastery.png" },
+          { "name": "Overload", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ryze_Overload.png" },
+          { "name": "Rune Prison", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ryze_Rune_Prison.png" },
+          { "name": "Spell Flux", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ryze_Spell_Flux.png" },
+          { "name": "Realm Warp", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ryze_Realm_Warp.png" }
+        ]
+      },
+      {
+        "name": "Samira",
+        "abilities": [
+          { "name": "Daredevil Impulse", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Daredevil_Impulse.png" },
+          { "name": "Flair", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Flair.png" },
+          { "name": "Blade Whirl", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Blade_Whirl.png" },
+          { "name": "Wild Rush", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Wild_Rush.png" },
+          { "name": "Inferno Trigger", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Rank_S.png" },
+          { "name": "Inferno Trigger", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Rank_A.png" },
+          { "name": "Inferno Trigger", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Rank_B.png" },
+          { "name": "Inferno Trigger", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Rank_C.png" },
+          { "name": "Inferno Trigger", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Rank_D.png" },
+          { "name": "Inferno Trigger", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Rank_E.png" },
+          { "name": "Inferno Trigger", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Samira_Inferno_Trigger_2.png" }
+        ]
+      },
+      {
+        "name": "Sejuani",
+        "abilities": [
+          { "name": "Fury of the North", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Sejuani_Fury_of_the_North.png" },
+          { "name": "Arctic Assault", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Sejuani_Arctic_Assault.png" },
+          { "name": "Winter's Wrath", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Sejuani_Winter%27s_Wrath.png" },
+          { "name": "Permafrost", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Sejuani_Permafrost.png" },
+          { "name": "Glacial Prison", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Sejuani_Glacial_Prison.png" }
+        ]
+      },
+      {
+        "name": "Senna",
+        "abilities": [
+          { "name": "Absolution", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Senna_Absolution.png" },
+          { "name": "Piercing Darkness", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Senna_Piercing_Darkness.png" },
+          { "name": "Last Embrace", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Senna_Last_Embrace.png" },
+          { "name": "Curse of the Black Mist", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Senna_Curse_of_the_Black_Mist.png" },
+          { "name": "Dawning Shadow", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Senna_Dawning_Shadow.png" }
+        ]
+      },
+      {
+        "name": "Seraphine",
+        "abilities": [
+          { "name": "Stage Presence", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Senna_Absolution.png" },
+          { "name": "High Note", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_High_Note.png" },
+          { "name": "High Note", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_High_Note_2.png" },
+          { "name": "High Note", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_High_Note_3.png" },
+          { "name": "Surround Sound", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_Surround_Sound.png" },
+          { "name": "Surround Sound", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_Surround_Sound_2.png" },
+          { "name": "Surround Sound", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_Surround_Sound_3.png" },
+          { "name": "Curse of the Black Mist", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_Beat_Drop.png" },
+          { "name": "Curse of the Black Mist", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_Beat_Drop_2.png" },
+          { "name": "Curse of the Black Mist", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_Beat_Drop_3.png" },
+          { "name": "Dawning Shadow", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Seraphine_Encore.png" }
+        ]
+      },
+      {
+        "name": "Sett",
+        "abilities": [
+          { "name": "Pit Grit", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Sett_Pit_Grit.png" },
+          { "name": "Knuckle Down", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Sett_Knuckle_Down.png" },
+          { "name": "Haymaker", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Sett_Haymaker.png" },
+          { "name": "Facebreaker", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Sett_Facebreaker.png" },
+          { "name": "The Show Stopper", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Sett_The_Show_Stopper.png" }
+        ]
+      },
+      {
+        "name": "Shaco",
+        "abilities": [
+          { "name": "Backstab", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Shaco_Backstab.png" },
+          { "name": "Deceive", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Shaco_Deceive.png" },
+          { "name": "Jack in the Box", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Shaco_Jack_in_the_Box.png" },
+          { "name": "Two-Shiv Poison", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Shaco_Two-Shiv_Poison.png" },
+          { "name": "Hallucinate", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Shaco_Hallucinate.png" },
+          { "name": "Hallucinate", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Shaco_Command-_Hallucinate.png" }
+        ]
+      },
+      {
+        "name": "Shen",
+        "abilities": [
+          { "name": "Ki Barrier", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Shen_Ki_Barrier.png" },
+          { "name": "Twilight Assault", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Shen_Twilight_Assault.png" },
+          { "name": "Spirit's Refuge", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Shen_Spirit%27s_Refuge.png" },
+          { "name": "Shadow Dash", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Shen_Shadow_Dash.png" },
+          { "name": "Stand United", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Shen_Stand_United.png" }
+        ]
+      },
+      {
+        "name": "Shyvana",
+        "abilities": [
+          { "name": "Fury of the Dragonborn", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Shyvana_Fury_of_the_Dragonborn.png" },
+          { "name": "Twin Bite", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Shyvana_Twin_Bite.png" },
+          { "name": "Burnout", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Shyvana_Burnout.png" },
+          { "name": "Flame Breath", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Shyvana_Flame_Breath.png" },
+          { "name": "Dragon's Descent", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Shyvana_Dragon%27s_Descent.png" }
+        ]
+      },
+      {
+        "name": "Singed",
+        "abilities": [
+          { "name": "Noxious Slipstream", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Singed_Noxious_Slipstream.png" },
+          { "name": "Poison Trail", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Singed_Poison_Trail.png" },
+          { "name": "Mega Adhesive", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Singed_Mega_Adhesive.png" },
+          { "name": "Fling", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Singed_Fling.png" },
+          { "name": "Insanity Potion", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Singed_Insanity_Potion.png" }
+        ]
+      },
+      {
+        "name": "Sion",
+        "abilities": [
+          { "name": "Glory in Death", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Glory_in_Death.png" },
+          { "name": "Death Surge", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Death_Surge.png" },
+          { "name": "Decimating Smash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Decimating_Smash.png" },
+          { "name": "Soul Furnace", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Soul_Furnace.png" },
+          { "name": "Soul Furnace", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Soul_Furnace_2.png" },
+          { "name": "Roar of the Slayer", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Roar_of_the_Slayer.png" },
+          { "name": "Unstoppable Onslaught", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Unstoppable_Onslaught.png" },
+          { "name": "Unstoppable Onslaught", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Sion_Unstoppable_Onslaught_2.png" }
+        ]
+      },
+      {
+        "name": "Sivir",
+        "abilities": [
+          { "name": "Fleet of Foot", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Sivir_Fleet_of_Foot.png" },
+          { "name": "Boomerang Blade", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Sivir_Boomerang_Blade.png" },
+          { "name": "Ricochet", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Sivir_Ricochet.png" },
+          { "name": "Spell Shield", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Sivir_Spell_Shield.png" },
+          { "name": "On the Hunt", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Sivir_On_the_Hunt.png" }
+        ]
+      },
+      {
+        "name": "Skarner",
+        "abilities": [
+          { "name": "Threads of Vibration", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Skarner_Threads_of_Vibration.png" },
+          { "name": "Shattered Earth", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Skarner_Shattered_Earth.png" },
+          { "name": "Upheaval", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Skarner_Upheaval.png" },
+          { "name": "Seismic Bastion", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Skarner_Seismic_Bastion.png" },
+          { "name": "Ixtal's Impact", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Skarner_Ixtal%27s_Impact.png" },
+          { "name": "Ixtal's Impact", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Skarner_Ixtal%27s_Impact_2.png" },
+          { "name": "Impale", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Skarner_Impale.png" }
+        ]
+      },
+      {
+        "name": "Smolder",
+        "abilities": [
+          { "name": "Dragon Practice", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_Dragon_Practice.png" },
+          { "name": "Super Scorcher Breath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_Super_Scorcher_Breath.png" },
+          { "name": "Super Scorcher Breath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_Super_Scorcher_Breath_2.png" },
+          { "name": "Super Scorcher Breath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_Super_Scorcher_Breath_3.png" },
+          { "name": "Super Scorcher Breath", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_Super_Scorcher_Breath_4.png" },
+          { "name": "Achooo!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_Achooo%21.png" },
+          { "name": "Flap, Flap, Flap", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_Flap%2C_Flap%2C_Flap.png" },
+          { "name": "MMOOOMMMM!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Smolder_MMOOOMMMM%21.png" }
+        ]
+      },
+      {
+        "name": "Sona",
+        "abilities": [
+          { "name": "Power Chord", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Sona_Power_Chord.png" },
+          { "name": "Hymn of Valor", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Sona_Hymn_of_Valor.png" },
+          { "name": "Aria of Perseverance", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Sona_Aria_of_Perseverance.png" },
+          { "name": "Song of Celerity", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Sona_Song_of_Celerity.png" },
+          { "name": "Crescendo", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Sona_Crescendo.png" }
+        ]
+      },
+      {
+        "name": "Soraka",
+        "abilities": [
+          { "name": "Salvation", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Soraka_Salvation.png" },
+          { "name": "Starcall", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Soraka_Starcall.png" },
+          { "name": "Astral Infusion", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Soraka_Astral_Infusion.png" },
+          { "name": "Equinox", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Soraka_Equinox.png" },
+          { "name": "Wish", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Soraka_Wish.png" }
+        ]
+      },
+      {
+        "name": "Swain",
+        "abilities": [
+          { "name": "Ravenous Flock", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Swain_Ravenous_Flock.png" },
+          { "name": "Death's Hand", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Swain_Death%27s_Hand.png" },
+          { "name": "Vision of Empire", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Swain_Vision_of_Empire.png" },
+          { "name": "Nevermove", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Swain_Nevermove.png" },
+          { "name": "Nevermove", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Swain_Nevermove_2.png" },
+          { "name": "Demonic Ascension", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Swain_Demonic_Ascension.png" },
+          { "name": "Demonflare", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Swain_Demonflare.png" }
+        ]
+      },
+      {
+        "name": "Sylas",
+        "abilities": [
+          { "name": "Petricite Burst", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Sylas_Petricite_Burst.png" },
+          { "name": "Chain Lash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Sylas_Chain_Lash.png" },
+          { "name": "Kingslayer", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Sylas_Kingslayer.png" },
+          { "name": "Abscond", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Sylas_Abscond.png" },
+          { "name": "Abduct", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Sylas_Abduct.png" },
+          { "name": "Hijack", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Sylas_Hijack.png" }
+        ]
+      },
+      {
+        "name": "Syndra",
+        "abilities": [
+          { "name": "Transcendent", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Transcendent.png" },
+          { "name": "Transcendent", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Transcendent_2.png" },
+          { "name": "Dark Sphere", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Dark_Sphere.png" },
+          { "name": "Dark Sphere", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Dark_Sphere_2.png" },
+          { "name": "Force of Will", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Force_of_Will.png" },
+          { "name": "Force of Will", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Force_of_Will_2.png" },
+          { "name": "Force of Will", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Force_of_Will_3.png" },
+          { "name": "Force of Will", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Force_of_Will_4.png" },
+          { "name": "Scatter the Weak", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Scatter_the_Weak.png" },
+          { "name": "Scatter the Weak", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Scatter_the_Weak_2.png" },
+          { "name": "Unleashed Power", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Unleashed_Power.png" },
+          { "name": "Unleashed Power", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Syndra_Unleashed_Power_2.png" }
+        ]
+      },
+      {
+        "name": "Tahm Kench",
+        "abilities": [
+          { "name": "An Acquired Taste", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Tahm_Kench_An_Acquired_Taste.png" },
+          { "name": "Tongue Lash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Tahm_Kench_Tongue_Lash.png" },
+          { "name": "Abyssal Dive", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Tahm_Kench_Abyssal_Dive.png" },
+          { "name": "Thick Skin", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Tahm_Kench_Thick_Skin.png" },
+          { "name": "Devour", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Tahm_Kench_Devour.png" },
+          { "name": "Regurgitate", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Tahm_Kench_Regurgitate.png" }
+        ]
+      },
+      {
+        "name": "Taliyah",
+        "abilities": [
+          { "name": "Rock Surfing", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_Rock_Surfing.png" },
+          { "name": "Threaded Volley", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_Threaded_Volley.png" },
+          { "name": "Threaded Volley", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_Threaded_Volley_2.png" },
+          { "name": "Seismic Shove", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_Seismic_Shove.png" },
+          { "name": "Unraveled Earth", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_Unraveled_Earth.png" },
+          { "name": "Weaver's Wall", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_Weaver%27s_Wall.png" },
+          { "name": "Weaver's Wall", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Taliyah_Weaver%27s_Wall_2.png" }
+        ]
+      },
+      {
+        "name": "Talon",
+        "abilities": [
+          { "name": "Blade's End", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Talon_Blade%27s_End.png" },
+          { "name": "Noxian Diplomacy", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Talon_Noxian_Diplomacy.png" },
+          { "name": "Rake", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Talon_Rake.png" },
+          { "name": "Assassin's Path", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Talon_Assassin%27s_Path.png" },
+          { "name": "Shadow Assault", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Talon_Shadow_Assault.png" }
+        ]
+      },
+      {
+        "name": "Taric",
+        "abilities": [
+          { "name": "Bravado", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Taric_Bravado.png" },
+          { "name": "Starlight's Touch", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Taric_Starlight%27s_Touch.png" },
+          { "name": "Bastion", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Taric_Bastion.png" },
+          { "name": "Dazzle", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Taric_Dazzle.png" },
+          { "name": "Cosmic Radiance", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Taric_Cosmic_Radiance.png" }
+        ]
+      },
+      {
+        "name": "Teemo",
+        "abilities": [
+          { "name": "Guerrilla Warfare", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Teemo_Guerrilla_Warfare.png" },
+          { "name": "Blinding Dart", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Teemo_Blinding_Dart.png" },
+          { "name": "Move Quick", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Teemo_Move_Quick.png" },
+          { "name": "Toxic Shot", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Teemo_Toxic_Shot.png" },
+          { "name": "Noxious Trap", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Teemo_Noxious_Trap.png" }
+        ]
+      },
+      {
+        "name": "Thresh",
+        "abilities": [
+          { "name": "Damnation", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Thresh_Damnation.png" },
+          { "name": "Death Sentence", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Thresh_Death_Sentence.png" },
+          { "name": "Death Sentence", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Thresh_Deathly_Leap.png" },
+          { "name": "Dark Passage", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Thresh_Dark_Passage.png" },
+          { "name": "Flay", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Thresh_Flay.png" },
+          { "name": "The Box", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Thresh_The_Box.png" }
+        ]
+      },
+      {
+        "name": "Tristana",
+        "abilities": [
+          { "name": "Draw a Bead", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Tristana_Draw_a_Bead.png" },
+          { "name": "Rapid Fire", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Tristana_Rapid_Fire.png" },
+          { "name": "Rocket Jump", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Tristana_Rocket_Jump.png" },
+          { "name": "Explosive Charge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Tristana_Explosive_Charge.png" },
+          { "name": "Buster Shot", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Tristana_Buster_Shot.png" }
+        ]
+      },
+      {
+        "name": "Trundle",
+        "abilities": [
+          { "name": "King's Tribute", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Trundle_King%27s_Tribute.png" },
+          { "name": "Chomp", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Trundle_Chomp.png" },
+          { "name": "Frozen Domain", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Trundle_Frozen_Domain.png" },
+          { "name": "Pillar of Ice", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Trundle_Pillar_of_Ice.png" },
+          { "name": "Subjugate", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Trundle_Subjugate.png" }
+        ]
+      },
+      {
+        "name": "Tryndamere",
+        "abilities": [
+          { "name": "Battle Fury", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Tryndamere_Battle_Fury.png" },
+          { "name": "Bloodlust", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Tryndamere_Bloodlust.png" },
+          { "name": "Mocking Shout", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Tryndamere_Mocking_Shout.png" },
+          { "name": "Spinning Slash", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Tryndamere_Spinning_Slash.png" },
+          { "name": "Undying Rage", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Tryndamere_Undying_Rage.png" }
+        ]
+      },
+      {
+        "name": "Twisted Fate",
+        "abilities": [
+          { "name": "Loaded Dice", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Loaded_Dice.png" },
+          { "name": "Wild Cards", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Wild_Cards.png" },
+          { "name": "Pick a Card", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Pick_a_Card.png" },
+          { "name": "Pick a Card", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Blue_Card.png" },
+          { "name": "Pick a Card", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Red_Card.png" },
+          { "name": "Pick a Card", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Gold_Card.png" },
+          { "name": "Stacked Deck", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Stacked_Deck.png" },
+          { "name": "Destiny", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Destiny.png" },
+          { "name": "Destiny", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Twisted_Fate_Gate.png" }
+        ]
+      },
+      {
+        "name": "Twitch",
+        "abilities": [
+          { "name": "Deadly Venom", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Twitch_Deadly_Venom.png" },
+          { "name": "Ambush", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Twitch_Ambush.png" },
+          { "name": "Venom Cask", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Twitch_Venom_Cask.png" },
+          { "name": "Contaminate", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Twitch_Contaminate.png" },
+          { "name": "Spray and Pray", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Twitch_Spray_and_Pray.png" }
+        ]
+      },
+      {
+        "name": "Udyr",
+        "abilities": [
+          { "name": "Bridge Between", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Udyr_Bridge_Between.png" },
+          { "name": "Wilding Claw", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Udyr_Wilding_Claw.png" },
+          { "name": "Iron Mantle", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Udyr_Iron_Mantle.png" },
+          { "name": "Blazing Stampede", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Udyr_Blazing_Stampede.png" },
+          { "name": "Wingborne Storm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Udyr_Wingborne_Storm.png" }
+        ]
+      },
+      {
+        "name": "Urgot",
+        "abilities": [
+          { "name": "Echoing Flames", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Urgot_Echoing_Flames.png" },
+          { "name": "Corrosive Charge", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Urgot_Corrosive_Charge.png" },
+          { "name": "Purge", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Urgot_Purge.png" },
+          { "name": "Purge", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Urgot_Purge_2.png" },
+          { "name": "Disdain", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Urgot_Disdain.png" },
+          { "name": "Fear Beyond Death", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Urgot_Fear_Beyond_Death.png" },
+          { "name": "Fear Beyond Death", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Urgot_Fear_Beyond_Death_2.png" }
+        ]
+      },
+      {
+        "name": "Varus",
+        "abilities": [
+          { "name": "Living Vengeance", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Varus_Living_Vengeance.png" },
+          { "name": "Piercing Arrow", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Varus_Piercing_Arrow.png" },
+          { "name": "Blighted Quiver", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Varus_Blighted_Quiver.png" },
+          { "name": "Hail of Arrows", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Varus_Hail_of_Arrows.png" },
+          { "name": "Chain of Corruption", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Varus_Chain_of_Corruption.png" }
+        ]
+      },
+      {
+        "name": "Vayne",
+        "abilities": [
+          { "name": "Night Hunter", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Vayne_Night_Hunter.png" },
+          { "name": "Tumble", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Vayne_Tumble.png" },
+          { "name": "Silver Bolts", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Vayne_Silver_Bolts.png" },
+          { "name": "Condemn", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Vayne_Condemn.png" },
+          { "name": "Final Hour", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Vayne_Final_Hour.png" }
+        ]
+      },
+      {
+        "name": "Veigar",
+        "abilities": [
+          { "name": "Phenomenal Evil Power", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Veigar_Phenomenal_Evil_Power.png" },
+          { "name": "Baleful Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Veigar_Baleful_Strike.png" },
+          { "name": "Dark Matter", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Veigar_Dark_Matter.png" },
+          { "name": "Event Horizon", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Veigar_Event_Horizon.png" },
+          { "name": "Primordial Burst", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Veigar_Primordial_Burst.png" }
+        ]
+      },
+      {
+        "name": "Vel'Koz",
+        "abilities": [
+          { "name": "Organic Deconstruction", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Vel%27Koz_Organic_Deconstruction.png" },
+          { "name": "Plasma Fission", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Vel%27Koz_Plasma_Fission.png" },
+          { "name": "Plasma Fission", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Vel%27Koz_Plasma_Fission_2.png" },
+          { "name": "Void Rift", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Vel%27Koz_Void_Rift.png" },
+          { "name": "Tectonic Disruption", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Vel%27Koz_Tectonic_Disruption.png" },
+          { "name": "Life Form Disintegration Ray", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Vel%27Koz_Life_Form_Disintegration_Ray.png" }
+        ]
+      },
+      {
+        "name": "Vex",
+        "abilities": [
+          { "name": "Doom 'n Gloom", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Vex_Doom_%27n_Gloom.png" },
+          { "name": "Mistral Bolt", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Vex_Mistral_Bolt.png" },
+          { "name": "Personal Space", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Vex_Personal_Space.png" },
+          { "name": "Looming Darkness", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Vex_Looming_Darkness.png" },
+          { "name": "Shadow Surge", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Vex_Shadow_Surge.png" },
+          { "name": "Shadow Surge", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Vex_Shadow_Surge_2.png" }
+        ]
+      },
+      {
+        "name": "Vi",
+        "abilities": [
+          { "name": "Blast Shield", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Vi_Blast_Shield.png" },
+          { "name": "Vault Breaker", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Vi_Vault_Breaker.png" },
+          { "name": "Denting Blows", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Vi_Denting_Blows.png" },
+          { "name": "Relentless Force", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Vi_Relentless_Force.png" },
+          { "name": "Cease and Desist", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Vi_Cease_and_Desist.png" }
+        ]
+      },
+      {
+        "name": "Viego",
+        "abilities": [
+          { "name": "Sovereign's Domination", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Viego_Sovereign%27s_Domination.png" },
+          { "name": "Blade of the Ruined King", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Viego_Blade_of_the_Ruined_King.png" },
+          { "name": "Spectral Maw", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Viego_Spectral_Maw.png" },
+          { "name": "Harrowed Path", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Viego_Harrowed_Path.png" },
+          { "name": "Heartbreaker", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Viego_Heartbreaker.png" }
+        ]
+      },
+      {
+        "name": "Viktor",
+        "abilities": [
+          { "name": "Glorious Evolution", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Glorious_Evolution.png" },
+          { "name": "Siphon Power", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Siphon_Power.png" },
+          { "name": "Siphon Power", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Glorious_Evolution_2.png" },
+          { "name": "Gravity Field", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Gravity_Field.png" },
+          { "name": "Gravity Field", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Glorious_Evolution_3.png" },
+          { "name": "Hextech Ray", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Hextech_Ray.png" },
+          { "name": "Hextech Ray", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Glorious_Evolution_4.png" },
+          { "name": "Arcane Storm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Arcane_Storm.png" },
+          { "name": "Arcane Storm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Arcane_Storm_2.png" },
+          { "name": "Arcane Storm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Glorious_Evolution_5.png" },
+          { "name": "Arcane Storm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Viktor_Arcane_Storm_3.png" }
+        ]
+      },
+      {
+        "name": "Vladimir",
+        "abilities": [
+          { "name": "Crimson Pact", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Vladimir_Crimson_Pact.png" },
+          { "name": "Transfusion", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Vladimir_Transfusion.png" },
+          { "name": "Sanguine Pool", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Vladimir_Sanguine_Pool.png" },
+          { "name": "Tides of Blood", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Vladimir_Tides_of_Blood.png" },
+          { "name": "Hemoplague", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Vladimir_Hemoplague.png?" }
+        ]
+      },
+      {
+        "name": "Volibear",
+        "abilities": [
+          { "name": "The Relentless Storm", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Volibear_The_Relentless_Storm.png" },
+          { "name": "Thundering Smash", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Volibear_Thundering_Smash.png" },
+          { "name": "Frenzied Maul", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Volibear_Frenzied_Maul.png" },
+          { "name": "Sky Splitter", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Volibear_Sky_Splitter.png" },
+          { "name": "Stormbringer", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Volibear_Stormbringer.png" }
+        ]
+      },
+      {
+        "name": "Warwick",
+        "abilities": [
+          { "name": "Eternal Hunger", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Warwick_Eternal_Hunger.png" },
+          { "name": "Jaws of the Beast", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Warwick_Jaws_of_the_Beast.png" },
+          { "name": "Blood Hunt", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Warwick_Blood_Hunt.png" },
+          { "name": "Primal Howl", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Warwick_Primal_Howl.png" },
+          { "name": "Primal Howl", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Warwick_Primal_Howl_2.png" },
+          { "name": "Infinite Duress", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Warwick_Infinite_Duress.png" }
+        ]
+      },
+      {
+        "name": "Wukong",
+        "abilities": [
+          { "name": "Stone Skin", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Wukong_Stone_Skin.png" },
+          { "name": "Crushing Blow", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Wukong_Crushing_Blow.png" },
+          { "name": "Warrior Trickster", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Wukong_Warrior_Trickster.png" },
+          { "name": "Nimbus Strike", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Wukong_Nimbus_Strike.png" },
+          { "name": "Cyclone", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Wukong_Cyclone.png" },
+          { "name": "Cyclone", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Wukong_Cyclone_2.png" }
+        ]
+      },
+      {
+        "name": "Xayah",
+        "abilities": [
+          { "name": "Clean Cuts", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Xayah_Clean_Cuts.png" },
+          { "name": "Double Daggers", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Xayah_Double_Daggers.png" },
+          { "name": "Deadly Plumage", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Xayah_Deadly_Plumage.png" },
+          { "name": "Bladecaller", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Xayah_Bladecaller.png" },
+          { "name": "Featherstorm", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Xayah_Featherstorm.png" }
+        ]
+      },
+      {
+        "name": "Xerath",
+        "abilities": [
+          { "name": "Mana Surge", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Xerath_Mana_Surge.png" },
+          { "name": "Arcanopulse", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Xerath_Arcanopulse.png" },
+          { "name": "Eye of Destruction", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Xerath_Eye_of_Destruction.png" },
+          { "name": "Shocking Orb", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Xerath_Shocking_Orb.png" },
+          { "name": "Rite of the Arcane", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Xerath_Rite_of_the_Arcane.png" }
+        ]
+      },
+      {
+        "name": "Xin Zhao",
+        "abilities": [
+          { "name": "Determination", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Xin_Zhao_Determination.png" },
+          { "name": "Three Talon Strike", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Xin_Zhao_Three_Talon_Strike.png" },
+          { "name": "Wind Becomes Lightning", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Xin_Zhao_Wind_Becomes_Lightning.png" },
+          { "name": "Audacious Charge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Xin_Zhao_Audacious_Charge.png" },
+          { "name": "Crescent Guard", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Xin_Zhao_Crescent_Guard.png" }
+        ]
+      },
+      {
+        "name": "Yasuo",
+        "abilities": [
+          { "name": "Way of the Wanderer", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_Way_of_the_Wanderer.png" },
+          { "name": "Steel Tempest", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_Steel_Tempest.png" },
+          { "name": "Steel Tempest", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_Steel_Tempest_2.png" },
+          { "name": "Steel Tempest", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_Steel_Tempest_3.png" },
+          { "name": "Wind Wall", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_Wind_Wall.png" },
+          { "name": "Sweeping Blade", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_Sweeping_Blade.png" },
+          { "name": "Last Breath", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Yasuo_Last_Breath.png" }
+        ]
+      },
+      {
+        "name": "Yone",
+        "abilities": [
+          { "name": "Way of the Hunter", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Yone_Way_of_the_Hunter.png" },
+          { "name": "Mortal Steel", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yone_Mortal_Steel.png" },
+          { "name": "Mortal Steel", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yone_Mortal_Steel_2.png" },
+          { "name": "Spirit Cleave", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Yone_Spirit_Cleave.png" },
+          { "name": "Soul Unbound", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Yone_Soul_Unbound.png" },
+          { "name": "Soul Unbound", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Yone_Soul_Unbound_2.png" },
+          { "name": "Fate Sealed", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Yone_Fate_Sealed.png" }
+        ]
+      },
+      {
+        "name": "Yorick",
+        "abilities": [
+          { "name": "Shepherd of Souls", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Yorick_Shepherd_of_Souls.png" },
+          { "name": "Last Rites", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yorick_Last_Rites.png" },
+          { "name": "Last Rites", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yorick_Awakening.png" },
+          { "name": "Dark Procession", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Yorick_Dark_Procession.png" },
+          { "name": "Mourning Mist", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Yorick_Mourning_Mist.png" },
+          { "name": "Eulogy of the Isles", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Yorick_Eulogy_of_the_Isles.png" }
+        ]
+      },
+      {
+        "name": "Yuumi",
+        "abilities": [
+          { "name": "Feline Friendship", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_Feline_Friendship.png" },
+          { "name": "Prowling Projectile", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_Prowling_Projectile.png" },
+          { "name": "Prowling Projectile", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_Prowling_Projectile_2.png" },
+          { "name": "You and Me!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_You_and_Me%21.png" },
+          { "name": "You and Me!", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_You_and_Me%21_2.png" },
+          { "name": "Zoomies", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_Zoomies.png" },
+          { "name": "Final Chapter", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Yuumi_Final_Chapter.png" }
+        ]
+      },
+      {
+        "name": "Zac",
+        "abilities": [
+          { "name": "Cell Division", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Zac_Cell_Division.png" },
+          { "name": "Stretching Strikes", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Zac_Stretching_Strikes.png" },
+          { "name": "Unstable Matter", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Zac_Unstable_Matter.png" },
+          { "name": "Elastic Slingshot", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Zac_Elastic_Slingshot.png" },
+          { "name": "Let's Bounce!", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Zac_Let%27s_Bounce%21.png" }
+        ]
+      },
+      {
+        "name": "Zed",
+        "abilities": [
+          { "name": "Contempt for the Weak", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Zed_Contempt_for_the_Weak.png" },
+          { "name": "Razor Shuriken", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Zed_Razor_Shuriken.png" },
+          { "name": "Living Shadow", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Zed_Living_Shadow.png" },
+          { "name": "Living Shadow", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Zed_Living_Shadow_2.png" },
+          { "name": "Shadow Slash", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Zed_Shadow_Slash.png" },
+          { "name": "Death Mark", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Zed_Death_Mark.png" },
+          { "name": "Death Mark", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Zed_Death_Mark_2.png" }
+        ]
+      },
+      {
+        "name": "Zeri",
+        "abilities": [
+          { "name": "Living Battery", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Zeri_Living_Battery_2.png" },
+          { "name": "Burst Fire", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Zeri_Burst_Fire.png" },
+          { "name": "Ultrashock Laser", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Zeri_Ultrashock_Laser.png" },
+          { "name": "Spark Surge", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Zeri_Spark_Surge.png" },
+          { "name": "Lightning Crash", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Zeri_Lightning_Crash.png" }
+        ]
+      },
+      {
+        "name": "Ziggs",
+        "abilities": [
+          { "name": "Short Fuse", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Ziggs_Short_Fuse.png" },
+          { "name": "Bouncing Bomb", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Ziggs_Bouncing_Bomb.png" },
+          { "name": "Satchel Charge", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Ziggs_Satchel_Charge.png" },
+          { "name": "Hexplosive Minefield", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Ziggs_Hexplosive_Minefield.png" },
+          { "name": "Mega Inferno Bomb", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Ziggs_Mega_Inferno_Bomb.png" }
+        ]
+      },
+      {
+        "name": "Zilean",
+        "abilities": [
+          { "name": "Time in a Bottle", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Zilean_Time_in_a_Bottle.png" },
+          { "name": "Time Bomb", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Zilean_Time_Bomb.png" },
+          { "name": "Rewind", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Zilean_Rewind.png" },
+          { "name": "Time Warp", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Zilean_Time_Warp.png" },
+          { "name": "Chronoshift", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Zilean_Chronoshift.png" }
+        ]
+      },
+      {
+        "name": "Zoe",
+        "abilities": [
+          { "name": "More Sparkles!", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Zoe_More_Sparkles%21.png" },
+          { "name": "Paddle Star", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Zoe_Paddle_Star.png" },
+          { "name": "Paddle Star", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Zoe_Paddle_Star_2.png" },
+          { "name": "Spell Thief", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Zoe_Spell_Thief.png" },
+          { "name": "Sleepy Trouble Bubble", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Zoe_Sleepy_Trouble_Bubble.png" },
+          { "name": "Portal Jump", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Zoe_Portal_Jump.png" }
+        ]
+      },
+      {
+        "name": "Zyra",
+        "abilities": [
+          { "name": "Garden of Thorns", "type": "Passive", "img": "https://wiki.leagueoflegends.com/en-us/images/Zyra_Garden_of_Thorns.png" },
+          { "name": "Deadly Spines", "type": "Q", "img": "https://wiki.leagueoflegends.com/en-us/images/Zyra_Deadly_Spines.png" },
+          { "name": "Rampant Growth", "type": "W", "img": "https://wiki.leagueoflegends.com/en-us/images/Zyra_Rampant_Growth.png" },
+          { "name": "Grasping Roots", "type": "E", "img": "https://wiki.leagueoflegends.com/en-us/images/Zyra_Grasping_Roots.png" },
+          { "name": "Stranglethorns", "type": "R", "img": "https://wiki.leagueoflegends.com/en-us/images/Zyra_Stranglethorns.png" }
+        ]
       }
     ]
   }
