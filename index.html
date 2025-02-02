@@ -8,20 +8,33 @@
 </head>
 <body>
   <div class="container">
-    <h1>Гра з вміннями персонажів</h1>
-    <button id="start-btn">Грати</button>
-    <!-- Гра -->
+    <h1 class="game-title">Гра з вміннями персонажів</h1>
+    
+    <div id="game-modes">
+      <button id="hide-name-mode" class="game-mode-btn">Приховати назву</button>
+      <button id="grayscale-mode" class="game-mode-btn">Чорно-біле</button>
+      <button id="fast-mode" class="game-mode-btn">Швидкий режим</button>
+    </div>
+    
+    <button id="start-btn" class="start-btn">Грати</button>
+
+    <!-- Ігровий екран -->
     <div id="game" class="hidden">
-      <div class="timer" id="timer">10:00</div>
-      <img id="ability-image" class="ability-image" src="" alt="Зображення вміння">
+      <div id="fast-timer" class="hidden">10</div>
+      <div id="ability-container">
+        <img id="ability-image" class="ability-image" src="" alt="Зображення вміння">
+        <p id="ability-name"></p> <!-- Елемент для назви -->
+      </div>
+
       <div>
-        <label for="character-input">Ім'я персонажа:</label>
+        <label for="character-input" class="character-name">Ім'я персонажа:</label>
         <div class="input-container">
           <input type="text" id="character-input" placeholder="Введіть ім'я персонажа" autocomplete="off"/>
           <button class="clear-btn" id="clear-input-btn">✖</button>
           <ul id="characters-list"></ul> <!-- Список персонажів -->
         </div>
-      </div>      
+      </div>  
+
       <div class="ability-buttons">
         <button class="ability-btn" data-ability="Passive">Passive</button>
         <button class="ability-btn" data-ability="Q">Q</button>
@@ -29,38 +42,34 @@
         <button class="ability-btn" data-ability="E">E</button>
         <button class="ability-btn" data-ability="R">R</button>
       </div>
+
       <button id="confirm-answer-btn" disabled>Підтвердити</button>
     </div>
-    <!-- Статистика -->
-    <div id="stats">
-      <p>Поточна череда: <span id="current-streak">0</span></p>
-      <p>Минула череда: <span id="past-streak">0</span></p>
-      <p>Найдовша череда: <span id="best-streak">0</span></p>
-      <div id="history-section">
-        <div id="progress-container">
-            <label for="accuracy-progress">Точність відповідей:</label>
-            <progress id="accuracy-progress" value="0" max="100"></progress>
-            <span id="accuracy-percentage">0%</span>
-        </div>
-        <ul id="history-list"></ul>
-      </div>
-      <table id="history-table">
-        <h3>Історія відповідей</h3>
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>Відповідь</th>
-            <th>Час (сек)</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
-      <button id="clear-history-btn">Очистити історію</button>
-    </div>
-    <!-- Game Over -->
+
+    <!-- Екран завершення гри -->
     <div id="game-over" class="hidden">
       <p id="correct-answer"></p>
       <button id="restart-btn">Почати знову</button>
+    </div>
+
+    <!-- Статистика -->
+    <div id="stats">
+        <p>Поточна череда: <span id="current-streak">0</span></p>
+        <p>Минула череда: <span id="past-streak">0</span></p>
+        <p>Найдовша череда: <span id="best-streak">0</span></p>
+      <div id="progress-container">
+        <label for="accuracy-progress">Точність відповідей:</label>
+        <progress id="accuracy-progress" value="0" max="100"></progress>
+        <span id="accuracy-percentage">0%</span>
+        <span id="accuracy-text" class="accuracy-text">0/0</span>
+      </div>       
+    </div>
+
+    <!-- Історія відповідей -->
+    <div id="history">
+      <h2>Історія відповідей</h2>
+      <div id="history-container"></div>
+      <button id="clear-history-btn">Очистити історію</button>
     </div>
   </div>
   <script src="script.js"></script>

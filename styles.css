@@ -1,57 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #121212;
+  color: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  /*height: 100vh;*/
+  /*overflow: hidden; /* Запобігає прокрутці */
+  overflow: auto; /* Якщо контент виходить за межі – додає прокрутку */
 }
 
 .container {
   text-align: center;
-  width: 100%;
   max-width: 600px;
+  padding: 20px;
+  background: #1e1e1e;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  
+  width: 100%; /*закоментувати*/
+  /*max-height: 90vh; /* Обмежує висоту, щоб гра не розтягувалася */
+  /*overflow: auto; /* Якщо контент виходить за межі – додає прокрутку */
+
+  min-height: 200px; /* Початкова висота, змінюй за потреби */
+  /*flex-grow: 1; /* Дозволяє контейнеру розширюватися */
+
+  margin: 25px 0 ;
 }
 
 .hidden {
   display: none;
 }
 
+/* Кнопки вибору режиму */
+
+#game-modes {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center; /* прибрати потім */
+}
+
+.game-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.game-mode-btn {
+  background-color: #333;
+  color: #fff;
+  border: 2px solid #666;
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: color 0.3s, transform 0.3s;
+}
+
+/*.game-mode-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+  color: #333;
+  transition: color 0.3s, transform 0.3s;
+}*/
+
+.game-mode-btn:hover {
+  background-color: #444;
+  transform: scale(1.1); /*закоментувати*/
+}
+
+/* Стиль для активного режиму */
+.active-mode {
+  background-color: #007bff; /* Синій фон */
+  color: white; /* Білий текст */
+  border: 2px solid #0056b3; /* Темно-синя обводка */
+}
+
+.active-mode:hover {
+  background-color: #007bff; /* Синій фон */
+  color: white; /* Білий текст */
+  border: 2px solid #0056b3; /* Темно-синя обводка */
+}
+
+#fast-timer {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: red;
+}
+
+/*.bi {
+  width: 20px;
+  height: 20px;
+}*/
+
+.start-btn {
+  background-color: #28a745;
+  padding: 12px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.start-btn:hover {
+  background-color: #218838;
+}
+
+
+#restart-btn {
+  background-color: #28a745;
+  padding: 12px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+#restart-btn:hover {
+  background-color: #218838;
+}
+
+
 /* Зображення вміння */
 
 .ability-image {
-  width: 64px; /* Обмеження ширини зображення */
-  height: 64px; /* Обмеження висоти зображення */
+  width: 80px; /* Обмеження ширини зображення */
+  height: 80px; /* Обмеження висоти зображення */
   object-fit: cover;
-  margin: 20px 0;
+  margin: 15px 0;
+  border: 3px solid #666;
+  border-radius: 5px;
 }
 
-/* */ 
+/* Назва вміння */
+
+#ability-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* */
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #666;
+  background: #222;
+  color: white;
+  border-radius: 5px;
+}
 
 .input-container {
   position: relative; /* Контейнер для відносного позиціонування списку */
   width: 100%; /* Ширина контейнера */
-}
+} 
 
-/* */ 
+/* Стиль списку з прокруткою */
 
 #characters-list {
   position: absolute; /* Позиціонування списку під полем вводу */
   top: 100%; /* Розташувати список прямо під полем вводу */
   left: 0;
   width: 100%; /* Список займає всю ширину поля вводу */
-  background-color: #fff; /* Білий фон для списку */
-  border: 1px solid #ccc; /* Границя для списку */
+  background-color: #222; /* Білий фон для списку */
+  border: 1px solid #666; /* Границя для списку */
   border-top: none; /* Приховати верхню границю, щоб виглядало як одне ціле */
   max-height: 200px; /* Обмеження висоти списку */
   overflow-y: auto; /* Дозволити вертикальну прокрутку */
   z-index: 1000; /* Забезпечити, щоб список знаходився поверх інших елементів */
   display: none; /* За замовчуванням список прихований */
   padding: 0; /* Прибрати внутрішні відступи списку */
-  margin: 0; /* Прибрати зовнішні відступи */
+  margin: 2px 0px 0px 0px; /* Прибрати зовнішні відступи */
+  /* visibility: hidden; */ /* Додаємо, щоб уникнути "мерехтіння" при зміні display */
 }
 
 #characters-list li {
@@ -61,7 +197,7 @@ body {
 }
 
 #characters-list li:hover {
-  background-color: #f0f0f0; /* Підсвітка при наведенні */
+  background-color: #333; /* Підсвітка при наведенні */
 }
 
 #characters-list option {
@@ -70,15 +206,18 @@ body {
 }
 
 #characters-list option:hover {
-  background-color: #f0f0f0;
+  background-color: #333;
 }
+
+/* */
 
 #character-input {
   width: 100%; /* Поле вводу займає всю ширину контейнера */
   box-sizing: border-box; /* Увімкнути врахування padding і border */
   padding: 10px; /* Внутрішні відступи для зручності */
-  border: 1px solid #ccc; /* Границя поля */
+  border: 1px solid #666; /* Границя поля */
   border-radius: 4px; /* Згладжені кути */
+  margin-top: 10px;
 }
 
 /* Кнопка очищення */
@@ -92,21 +231,17 @@ body {
   border: none;
   cursor: pointer;
   font-size: 14px;
-  color: #888;
+  color: #666;
   display: none; /* Кнопка прихована за замовчуванням */
 }
 
 .clear-btn:hover {
-  color: #000;
+  color: #999;
 }
 
 #character-input:not(:placeholder-shown) + .clear-btn {
   display: block; /* Показувати кнопку очищення, якщо є текст */
 }
-
-/* Стиль списку з прокруткою */
-
-
 
 /* Кнопки вмінь */
 
@@ -114,6 +249,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 10px;
+  /*margin-top: 0px; /**/
 }
 
 .ability-btn {
@@ -124,6 +260,7 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  transition: 0.3s;
 }
 
 .ability-btn:hover {
@@ -142,14 +279,11 @@ body {
   border-color: #388e3c; /* Темніша зелена рамка */
 }
 
-.timer {
-  font-size: 2em;
-  margin-bottom: 20px;
+.ability-btn.selected:hover {
+  background-color: #218838; /* Зелений фон */
 }
 
-#stats {
-  margin-top: 20px;
-}
+/*   */
 
 #game-over {
   text-align: center;
@@ -166,6 +300,7 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  transition: 0.3s;
 }
 
 #confirm-answer-btn:hover {
@@ -177,11 +312,20 @@ body {
   cursor: not-allowed;
 }
 
+#stats {
+  margin-top: 20px;
+  padding: 10px;
+  background: #222;
+  border-radius: 5px;
+}
+
 /* */
 
 #correct-answer {
   margin-top: 20px;
   text-align: center;
+  border: 3px solid #eb0b16;
+  border-radius: 5px;
 }
 
 #correct-answer img {
@@ -193,6 +337,7 @@ body {
 
 #progress-container {
   /*display: flex;*/
+  /*justify-content: space-between;*/
   align-items: center;
   gap: 10px;
   margin-bottom: 10px;
@@ -209,31 +354,30 @@ body {
 
 /* Історія статистики */
 
-#history-table {
-  width: 100%;
-  border-collapse: collapse;
+.history-record {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  /*font-family: Arial, sans-serif;*/
+}
+.history-record img {
+  border-radius: 5px;
+}
+
+#clear-history-btn {
+  background-color: #dc3545;
+  padding: 10px 15px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
   margin-top: 10px;
-  font-size: 14px;
+  transition: 0.3s;
 }
 
-#history-table th,
-#history-table td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: center;
-}
-
-#history-table th {
-  background-color: #f4f4f4;
-  font-weight: bold;
-}
-
-#history-table tbody tr:nth-child(odd) {
-  background-color: #f9f9f9;
-}
-
-#history-table tbody tr:nth-child(even) {
-  background-color: #ffffff;
+#clear-history-btn:hover {
+  background-color: #c82333;
 }
 
 /* */
